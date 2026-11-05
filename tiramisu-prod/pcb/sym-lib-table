@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "tiramisu-footprints") (type "KiCad") (uri "${KIPRJMOD}/libraries/symbols/tiramisu-footprints.kicad_sym") (options "") (descr ""))
+)
