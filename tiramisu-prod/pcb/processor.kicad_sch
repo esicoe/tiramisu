@@ -5,6 +5,121 @@
 	(uuid "511a518c-418e-4357-93ad-0c0e8278255d")
 	(paper "A4")
 	(lib_symbols
+		(symbol "power:GND"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "tiramisu-footprints:HPM5361ICB1"
 			(pin_names
 				(offset 1.016)
@@ -14,8 +129,8 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "U"
-				(at -21.59 68.58 0)
+			(property "Reference" "U1"
+				(at 7.2233 -64.77 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -26,7 +141,7 @@
 				)
 			)
 			(property "Value" "HPM5361ICB1"
-				(at -21.59 -68.58 0)
+				(at 7.2233 -67.31 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -505,7 +620,7 @@
 					)
 				)
 				(pin input line
-					(at -2.54 66.04 270)
+					(at -16.51 -66.04 90)
 					(length 3.81)
 					(name "DCDC_SNS"
 						(effects
@@ -650,7 +765,7 @@
 					)
 				)
 				(pin power_out line
-					(at -5.08 66.04 270)
+					(at -13.97 -66.04 90)
 					(length 3.81)
 					(name "DCDC_LP"
 						(effects
@@ -668,7 +783,7 @@
 					)
 				)
 				(pin power_in line
-					(at -7.62 66.04 270)
+					(at -11.43 -66.04 90)
 					(length 3.81)
 					(name "DCDC_IN"
 						(effects
@@ -1965,6 +2080,156 @@
 			(embedded_fonts no)
 		)
 	)
+	(junction
+		(at 74.93 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3c68c975-574e-48e7-8e76-e9660a2872e8")
+	)
+	(junction
+		(at 88.9 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "51f68470-c9f4-4cf7-b906-189ac6cfa573")
+	)
+	(junction
+		(at 93.98 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "68a08d34-7d0a-4ad7-905b-f78d82479e6d")
+	)
+	(junction
+		(at 77.47 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f188ca5e-20ed-4818-97ed-2cbb5abf832d")
+	)
+	(junction
+		(at 83.82 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f7236fc6-aa13-4d66-92d4-2c88987f63ef")
+	)
+	(wire
+		(pts
+			(xy 74.93 177.8) (xy 74.93 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13fc612c-9a96-4bfe-bdf0-850f19a514a8")
+	)
+	(wire
+		(pts
+			(xy 74.93 177.8) (xy 77.47 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "236b60d3-5092-4d33-acc5-9b33f3a2be65")
+	)
+	(wire
+		(pts
+			(xy 83.82 177.8) (xy 83.82 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "248305b2-9bb3-4196-a06a-ab974b9e51c1")
+	)
+	(wire
+		(pts
+			(xy 72.39 175.26) (xy 72.39 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29f27782-00fa-44c7-92aa-16a0f66b3e2f")
+	)
+	(wire
+		(pts
+			(xy 83.82 177.8) (xy 88.9 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b72b6d0-e0c1-4928-84b6-91e5f01b7843")
+	)
+	(wire
+		(pts
+			(xy 88.9 177.8) (xy 88.9 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6155f694-7904-44c5-9987-c9caf3f14071")
+	)
+	(wire
+		(pts
+			(xy 72.39 177.8) (xy 74.93 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69fa1110-5a8d-46eb-874e-9fea55dd5494")
+	)
+	(wire
+		(pts
+			(xy 77.47 177.8) (xy 83.82 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7008cc61-c760-4cb1-9633-3d72f997567a")
+	)
+	(wire
+		(pts
+			(xy 93.98 177.8) (xy 93.98 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85a4810c-219a-4618-9baa-545c72c40f3b")
+	)
+	(wire
+		(pts
+			(xy 77.47 177.8) (xy 77.47 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad049fd3-be9a-4641-9d36-4e4d4e06acc4")
+	)
+	(wire
+		(pts
+			(xy 88.9 177.8) (xy 93.98 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0d8e2d1-c79e-4ebc-b8e4-12a470d418de")
+	)
+	(wire
+		(pts
+			(xy 93.98 177.8) (xy 93.98 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f97ea3eb-32bf-4e6a-a594-4d6a8f3018c9")
+	)
 	(symbol
 		(lib_id "tiramisu-footprints:HPM5361ICB1")
 		(at 88.9 109.22 0)
@@ -1975,10 +2240,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6ee7b47a-2132-4491-b84f-efabda46d3a3")
 		(property "Reference" "U1"
-			(at 96.1233 173.99 0)
+			(at 95.6467 172.974 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1989,7 +2253,7 @@
 			)
 		)
 		(property "Value" "HPM5361ICB1"
-			(at 96.1233 176.53 0)
+			(at 95.758 175.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2370,6 +2634,84 @@
 			(project "tiramisu-prod-pcb"
 				(path "/bd2a675c-ae05-474a-93e7-edcce2196b8c/ce5c656a-1e09-467e-a353-f11db3570ab6"
 					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 93.98 180.34 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7beb7b20-1ceb-43f5-98d0-4d3647a7a7a6")
+		(property "Reference" "#PWR04"
+			(at 93.98 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 93.98 185.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 93.98 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f6f68cfb-f462-4275-a3ce-39a1d2cf3575")
+		)
+		(instances
+			(project "tiramisu-prod-pcb"
+				(path "/bd2a675c-ae05-474a-93e7-edcce2196b8c/ce5c656a-1e09-467e-a353-f11db3570ab6"
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
