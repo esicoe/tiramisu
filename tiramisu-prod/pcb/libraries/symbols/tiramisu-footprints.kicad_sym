@@ -520,7 +520,7 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "U"
-			(at -21.59 68.58 0)
+			(at 15.494 -63.754 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -531,7 +531,7 @@
 			)
 		)
 		(property "Value" "HPM5361ICB1"
-			(at -21.59 -68.58 0)
+			(at 15.494 -65.786 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -753,7 +753,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 66.04 270)
+				(at 10.16 66.04 270)
 				(length 3.81)
 				(name "VDD_SOC"
 					(effects
@@ -771,7 +771,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -66.04 90)
+				(at 10.16 -66.04 90)
 				(length 3.81)
 				(name "VSS"
 					(effects
@@ -789,7 +789,7 @@
 				)
 			)
 			(pin power_in line
-				(at 5.08 66.04 270)
+				(at -15.24 66.04 270)
 				(length 3.81)
 				(name "VIO_B00"
 					(effects
@@ -807,7 +807,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -66.04 90)
+				(at 10.16 -66.04 90)
 				(length 3.81)
 				(hide yes)
 				(name "VSS"
@@ -898,7 +898,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 66.04 270)
+				(at -15.24 66.04 270)
 				(length 3.81)
 				(hide yes)
 				(name "VIO_B00"
@@ -917,7 +917,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -66.04 90)
+				(at 10.16 -66.04 90)
 				(length 3.81)
 				(hide yes)
 				(name "VSS"
@@ -936,7 +936,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 66.04 270)
+				(at 10.16 66.04 270)
 				(length 3.81)
 				(hide yes)
 				(name "VDD_SOC"
@@ -991,7 +991,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 66.04 270)
+				(at 10.16 66.04 270)
 				(length 3.81)
 				(hide yes)
 				(name "VDD_SOC"
@@ -1010,7 +1010,7 @@
 				)
 			)
 			(pin input line
-				(at -2.54 66.04 270)
+				(at 0 -66.04 90)
 				(length 3.81)
 				(name "DCDC_SNS"
 					(effects
@@ -1028,7 +1028,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -66.04 90)
+				(at 10.16 -66.04 90)
 				(length 3.81)
 				(hide yes)
 				(name "VSS"
@@ -1047,7 +1047,7 @@
 				)
 			)
 			(pin power_out line
-				(at -12.7 66.04 270)
+				(at -15.24 -66.04 90)
 				(length 3.81)
 				(name "VDD_OTPCAP"
 					(effects
@@ -1137,7 +1137,7 @@
 				)
 			)
 			(pin power_in line
-				(at -5.08 -66.04 90)
+				(at 7.62 -66.04 90)
 				(length 3.81)
 				(name "DCDC_GND"
 					(effects
@@ -1155,7 +1155,7 @@
 				)
 			)
 			(pin power_out line
-				(at -5.08 66.04 270)
+				(at 2.54 -66.04 90)
 				(length 3.81)
 				(name "DCDC_LP"
 					(effects
@@ -1173,7 +1173,7 @@
 				)
 			)
 			(pin power_in line
-				(at -7.62 66.04 270)
+				(at 5.08 -66.04 90)
 				(length 3.81)
 				(name "DCDC_IN"
 					(effects
@@ -1209,7 +1209,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -66.04 90)
+				(at 10.16 -66.04 90)
 				(length 3.81)
 				(hide yes)
 				(name "VSS"
@@ -1228,7 +1228,7 @@
 				)
 			)
 			(pin power_out line
-				(at -15.24 66.04 270)
+				(at -10.16 -66.04 90)
 				(length 3.81)
 				(name "VDD_PMCCAP"
 					(effects
@@ -1390,7 +1390,7 @@
 				)
 			)
 			(pin power_in line
-				(at 7.62 66.04 270)
+				(at -12.7 66.04 270)
 				(length 3.81)
 				(name "VIO_B01"
 					(effects
@@ -1408,7 +1408,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -66.04 90)
+				(at 10.16 -66.04 90)
 				(length 3.81)
 				(hide yes)
 				(name "VSS"
@@ -1427,7 +1427,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 66.04 270)
+				(at 10.16 66.04 270)
 				(length 3.81)
 				(hide yes)
 				(name "VDD_SOC"
@@ -1626,7 +1626,7 @@
 				)
 			)
 			(pin passive line
-				(at 7.62 66.04 270)
+				(at -12.7 66.04 270)
 				(length 3.81)
 				(hide yes)
 				(name "VIO_B01"
@@ -1645,7 +1645,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -66.04 90)
+				(at 10.16 -66.04 90)
 				(length 3.81)
 				(hide yes)
 				(name "VSS"
@@ -1664,7 +1664,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 66.04 270)
+				(at 10.16 66.04 270)
 				(length 3.81)
 				(hide yes)
 				(name "VDD_SOC"
@@ -1791,7 +1791,7 @@
 				)
 			)
 			(pin power_in line
-				(at 5.08 -66.04 90)
+				(at 12.7 -66.04 90)
 				(length 3.81)
 				(name "VREFL"
 					(effects
@@ -1809,7 +1809,7 @@
 				)
 			)
 			(pin power_in line
-				(at 17.78 66.04 270)
+				(at -5.08 66.04 270)
 				(length 3.81)
 				(name "VREFH"
 					(effects
@@ -1827,7 +1827,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -66.04 90)
+				(at 10.16 -66.04 90)
 				(length 3.81)
 				(hide yes)
 				(name "VSS"
@@ -1846,7 +1846,7 @@
 				)
 			)
 			(pin power_in line
-				(at 15.24 66.04 270)
+				(at -7.62 66.04 270)
 				(length 3.81)
 				(name "VANA"
 					(effects
@@ -1882,7 +1882,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 66.04 270)
+				(at 10.16 66.04 270)
 				(length 3.81)
 				(hide yes)
 				(name "VDD_SOC"
@@ -1901,7 +1901,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -66.04 90)
+				(at 10.16 -66.04 90)
 				(length 3.81)
 				(hide yes)
 				(name "VSS"
@@ -1920,7 +1920,7 @@
 				)
 			)
 			(pin power_in line
-				(at 12.7 66.04 270)
+				(at -10.16 66.04 270)
 				(length 3.81)
 				(name "VPLL"
 					(effects
@@ -2010,7 +2010,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -66.04 90)
+				(at 10.16 -66.04 90)
 				(length 3.81)
 				(hide yes)
 				(name "VSS"
@@ -2137,7 +2137,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 66.04 270)
+				(at 10.16 66.04 270)
 				(length 3.81)
 				(hide yes)
 				(name "VDD_SOC"
@@ -2156,7 +2156,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -66.04 90)
+				(at 10.16 -66.04 90)
 				(length 3.81)
 				(hide yes)
 				(name "VSS"
@@ -2175,7 +2175,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 66.04 270)
+				(at -15.24 66.04 270)
 				(length 3.81)
 				(hide yes)
 				(name "VIO_B00"
@@ -2338,7 +2338,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 66.04 270)
+				(at 10.16 66.04 270)
 				(length 3.81)
 				(hide yes)
 				(name "VDD_SOC"
@@ -2357,7 +2357,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -66.04 90)
+				(at 10.16 -66.04 90)
 				(length 3.81)
 				(hide yes)
 				(name "VSS"
@@ -2376,7 +2376,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 66.04 270)
+				(at -15.24 66.04 270)
 				(length 3.81)
 				(hide yes)
 				(name "VIO_B00"
