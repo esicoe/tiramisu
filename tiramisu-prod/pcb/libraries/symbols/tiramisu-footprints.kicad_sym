@@ -2540,7 +2540,7 @@
 					(type background)
 				)
 			)
-			(pin power_out line
+			(pin power_in line
 				(at 2.54 2.54 270)
 				(length 2.54)
 				(name "VDD"
@@ -2558,7 +2558,7 @@
 					)
 				)
 			)
-			(pin power_out line
+			(pin output line
 				(at 13.97 -6.35 180)
 				(length 2.54)
 				(name "OUT"
@@ -2576,7 +2576,7 @@
 					)
 				)
 			)
-			(pin power_out line
+			(pin power_in line
 				(at 2.54 -15.24 90)
 				(length 2.54)
 				(name "GND"
