@@ -1,0 +1,219 @@
+(footprint "L_CommonModeChoke_TAI-TECH_WCM2012F2SF"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "TAI-TECH WCM2012F2SF wire-wound common-mode filter, 2.0x1.2x1.2mm. Land pattern per TAI-TECH catalogue 8-1 (L 2.60, H 1.40, G1 1.25, G2 0.45). Pads numbered per TAI-TECH: windings 1-2 and 4-3 along the long sides, 1 and 4 at the same end")
+	(tags "common mode filter choke USB TAI-TECH WCM2012")
+	(property "Reference" "REF**"
+		(at 0 -2.5 0)
+		(layer "F.SilkS")
+		(uuid "81f4211f-ea81-418e-a272-7378eb54a865")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L_CommonModeChoke_TAI-TECH_WCM2012F2SF"
+		(at 0 2.5 0)
+		(layer "F.Fab")
+		(uuid "5551acd4-e563-40c1-a182-4002e8a8d568")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.tai-tech.com.tw"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "77f9d719-4c5e-4f2b-9ec8-3af50a0ebe34")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2ce8fc9e-9f85-47d3-9981-148aeca94a8c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -0.9 -1.4)
+		(end -0.9 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6cc9fd32-1f5c-4481-bbd1-540bc9f24ffb")
+	)
+	(fp_line
+		(start 0.9 -1)
+		(end 0.9 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f9f6d36d-5ef2-43d6-90dd-916947e28822")
+	)
+	(fp_line
+		(start -0.95 -1.55)
+		(end 0.95 -1.55)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0ff0daf4-0832-45f8-b1f0-e68c34f5e766")
+	)
+	(fp_line
+		(start 0.95 -1.55)
+		(end 0.95 1.55)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "08bd94f1-f9d7-4455-9652-50bd387599aa")
+	)
+	(fp_line
+		(start 0.95 1.55)
+		(end -0.95 1.55)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d0dc5667-1976-4120-b65a-6e48c6d7498f")
+	)
+	(fp_line
+		(start -0.95 1.55)
+		(end -0.95 -1.55)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "228c4976-4ccc-4ff1-b1f5-834501c6a38a")
+	)
+	(fp_line
+		(start -0.6 -0.6)
+		(end -0.2 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4cba7303-429e-485f-b5d5-343915fc6394")
+	)
+	(fp_line
+		(start -0.2 -1)
+		(end 0.6 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "edd9121c-6055-4154-9f57-7e5abe6fc576")
+	)
+	(fp_line
+		(start 0.6 -1)
+		(end 0.6 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ec56f4b3-55fe-44b8-904a-ae23db08142d")
+	)
+	(fp_line
+		(start 0.6 1)
+		(end -0.6 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "730b0009-a796-4f4f-b3aa-96c146d3c4da")
+	)
+	(fp_line
+		(start -0.6 1)
+		(end -0.6 -0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2664d50d-0e68-44dd-97bc-1c3d11ce2a2a")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 90)
+		(layer "F.Fab")
+		(uuid "12eb10b2-afb0-43f2-a0a2-c6e4d56f3bc0")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -0.4625 -0.9625)
+		(size 0.475 0.675)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "f9b06b18-ee10-4238-99d3-9deeaa0b1792")
+	)
+	(pad "2" smd roundrect
+		(at -0.4625 0.9625)
+		(size 0.475 0.675)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "3a72152f-5d49-4cad-8b42-3c9b0a07d626")
+	)
+	(pad "3" smd roundrect
+		(at 0.4625 0.9625)
+		(size 0.475 0.675)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "b4931cbc-1e77-4ba2-bd1f-8699bf704f76")
+	)
+	(pad "4" smd roundrect
+		(at 0.4625 -0.9625)
+		(size 0.475 0.675)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "0ad167ee-5648-493f-840c-1291782fad29")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_CommonModeChoke_Coilcraft_0805USB.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

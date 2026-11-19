@@ -122,7 +122,7 @@
 			)
 		)
 		(property "Sheetfile" "processor.kicad_sch"
-			(at 76.2 64.0846 0)
+			(at 76.2 64.008 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
