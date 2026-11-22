@@ -5,10 +5,9 @@
 	(uuid "9c56cba2-e28c-4a12-a103-895c9a645708")
 	(paper "A0")
 	(title_block
-		(title "Tiramisu - Sensors")
+		(title "Sensors Sheet")
 		(date "2026-11-21")
 		(rev "1")
-		(comment 1 "Rev 1 = board-ID code 1 (BOARD_ID 0.0698 x 3V3A = 0.230 V)")
 	)
 	(lib_symbols
 		(symbol "Device:C"
@@ -668,15 +667,15 @@
 	)
 	(text "Multiplexer 0 Sensors\nY0A - Y15A"
 		(exclude_from_sim no)
-		(at 300.355 20.955 0)
+		(at 13.462 20.828 0)
 		(effects
 			(font
 				(face "Arial")
-				(size 2.286 2.286)
+				(size 3.81 3.81)
 				(bold yes)
 				(color 0 0 0 1)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "6ea821d7-b9ab-44c8-85af-f1c6557225d5")
 	)
