@@ -1123,7 +1123,7 @@
 					)
 				)
 				(pin input line
-					(at -25.4 45.72 0)
+					(at -25.4 49.53 0)
 					(length 3.81)
 					(name "RESETN"
 						(effects
@@ -1141,7 +1141,7 @@
 					)
 				)
 				(pin input line
-					(at -25.4 43.18 0)
+					(at -25.4 46.99 0)
 					(length 3.81)
 					(name "WAKEUP"
 						(effects

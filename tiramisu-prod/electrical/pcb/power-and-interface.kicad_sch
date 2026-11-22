@@ -7040,7 +7040,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 66.04 73.152 0)
 			(hide yes)
 			(show_name no)
@@ -7095,7 +7095,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C270344"
+		(property "LCSC" "C25905"
 			(at 66.04 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -7106,7 +7106,7 @@
 				)
 			)
 		)
-		(property "MPN" "0201WMF5101TEE"
+		(property "MPN" "0402WGF5101TCE"
 			(at 66.04 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -7313,7 +7313,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 251.1552 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -7368,7 +7368,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C18164586"
+		(property "LCSC" "C1525"
 			(at 250.19 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -7379,7 +7379,7 @@
 				)
 			)
 		)
-		(property "MPN" "TCC0201X7R104K160ZT"
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 250.19 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -7390,7 +7390,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "CCTC"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 250.19 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -8390,7 +8390,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C25752"
+		(property "LCSC" "C784579"
 			(at 241.3 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -8401,7 +8401,7 @@
 				)
 			)
 		)
-		(property "MPN" "0402WGF1202TCE"
+		(property "MPN" "RT0402BRD0712KL"
 			(at 241.3 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -8412,7 +8412,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL"
+		(property "Manufacturer" "YAGEO"
 			(at 241.3 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -8423,7 +8423,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" "0.1%"
 			(at 241.3 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -11071,7 +11071,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 75.8952 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -11126,7 +11126,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1779"
+		(property "LCSC" "C1872"
 			(at 74.93 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -11137,7 +11137,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL21A475KAQNNNE"
+		(property "MPN" "CL31B475KAHNNNE"
 			(at 74.93 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -11643,7 +11643,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 59.69 163.322 0)
 			(hide yes)
 			(show_name no)
@@ -11698,7 +11698,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C270364"
+		(property "LCSC" "C852472"
 			(at 59.69 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -11709,7 +11709,7 @@
 				)
 			)
 		)
-		(property "MPN" "0201WMF1003TEE"
+		(property "MPN" "RT0402BRD07100KL"
 			(at 59.69 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -11720,7 +11720,18 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL"
+		(property "Manufacturer" "YAGEO"
+			(at 59.69 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "0.1%"
 			(at 59.69 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -13253,7 +13264,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 251.1552 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -13308,7 +13319,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C18164586"
+		(property "LCSC" "C1525"
 			(at 250.19 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -13319,7 +13330,7 @@
 				)
 			)
 		)
-		(property "MPN" "TCC0201X7R104K160ZT"
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 250.19 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -13330,7 +13341,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "CCTC"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 250.19 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -13761,7 +13772,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 66.04 70.612 0)
 			(hide yes)
 			(show_name no)
@@ -13816,7 +13827,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C270344"
+		(property "LCSC" "C25905"
 			(at 66.04 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -13827,7 +13838,7 @@
 				)
 			)
 		)
-		(property "MPN" "0201WMF5101TEE"
+		(property "MPN" "0402WGF5101TCE"
 			(at 66.04 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -14404,7 +14415,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 59.69 169.672 0)
 			(hide yes)
 			(show_name no)
@@ -14459,7 +14470,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C270364"
+		(property "LCSC" "C852472"
 			(at 59.69 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -14470,7 +14481,7 @@
 				)
 			)
 		)
-		(property "MPN" "0201WMF1003TEE"
+		(property "MPN" "RT0402BRD07100KL"
 			(at 59.69 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -14481,7 +14492,18 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL"
+		(property "Manufacturer" "YAGEO"
+			(at 59.69 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "0.1%"
 			(at 59.69 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -14539,7 +14561,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 120.65 159.512 0)
 			(hide yes)
 			(show_name no)
@@ -14594,7 +14616,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C473508"
+		(property "LCSC" "C25879"
 			(at 120.65 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -14605,7 +14627,7 @@
 				)
 			)
 		)
-		(property "MPN" "0201WMF2201TEE"
+		(property "MPN" "0402WGF2201TCE"
 			(at 120.65 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -15440,7 +15462,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 258.7752 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -15495,7 +15517,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C18164586"
+		(property "LCSC" "C1525"
 			(at 257.81 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -15506,7 +15528,7 @@
 				)
 			)
 		)
-		(property "MPN" "TCC0201X7R104K160ZT"
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 257.81 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -15517,7 +15539,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "CCTC"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 257.81 46.99 0)
 			(hide yes)
 			(show_name no)

@@ -43436,7 +43436,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 251.1552 638.81 0)
 			(hide yes)
 			(show_name no)
@@ -43491,7 +43491,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 250.19 635 0)
 			(hide yes)
 			(show_name no)
@@ -43502,7 +43502,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 250.19 635 0)
 			(hide yes)
 			(show_name no)
@@ -43513,7 +43513,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 250.19 635 0)
 			(hide yes)
 			(show_name no)
@@ -43572,7 +43572,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 914.0952 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -43627,7 +43627,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 913.13 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -43638,7 +43638,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 913.13 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -43649,7 +43649,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 913.13 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -43866,7 +43866,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 540.7152 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -43921,7 +43921,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 539.75 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -43932,7 +43932,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 539.75 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -43943,7 +43943,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 539.75 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -44517,7 +44517,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 982.6752 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -44572,7 +44572,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 981.71 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -44583,7 +44583,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 981.71 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -44594,7 +44594,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 981.71 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -45183,7 +45183,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 403.5552 570.23 0)
 			(hide yes)
 			(show_name no)
@@ -45238,7 +45238,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 402.59 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -45249,7 +45249,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 402.59 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -45260,7 +45260,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 402.59 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -45319,7 +45319,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 693.1152 444.5 0)
 			(hide yes)
 			(show_name no)
@@ -45374,7 +45374,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 692.15 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -45385,7 +45385,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 692.15 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -45396,7 +45396,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 692.15 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -46028,7 +46028,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 113.9952 638.81 0)
 			(hide yes)
 			(show_name no)
@@ -46083,7 +46083,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 113.03 635 0)
 			(hide yes)
 			(show_name no)
@@ -46094,7 +46094,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 113.03 635 0)
 			(hide yes)
 			(show_name no)
@@ -46105,7 +46105,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 113.03 635 0)
 			(hide yes)
 			(show_name no)
@@ -46320,7 +46320,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 403.5552 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -46375,7 +46375,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 402.59 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -46386,7 +46386,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 402.59 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -46397,7 +46397,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 402.59 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -46905,7 +46905,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1051.2552 375.92 0)
 			(hide yes)
 			(show_name no)
@@ -46960,7 +46960,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1050.29 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -46971,7 +46971,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1050.29 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -46982,7 +46982,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1050.29 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -47120,7 +47120,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 693.1152 764.54 0)
 			(hide yes)
 			(show_name no)
@@ -47175,7 +47175,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 692.15 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -47186,7 +47186,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 692.15 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -47197,7 +47197,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 692.15 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -49052,7 +49052,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 334.9752 722.63 0)
 			(hide yes)
 			(show_name no)
@@ -49107,7 +49107,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 334.01 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -49118,7 +49118,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 334.01 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -49129,7 +49129,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 334.01 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -49188,7 +49188,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1119.8352 444.5 0)
 			(hide yes)
 			(show_name no)
@@ -49243,7 +49243,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1118.87 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -49254,7 +49254,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1118.87 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -49265,7 +49265,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1118.87 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -49991,7 +49991,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 113.9952 292.1 0)
 			(hide yes)
 			(show_name no)
@@ -50046,7 +50046,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 113.03 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -50057,7 +50057,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 113.03 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -50068,7 +50068,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 113.03 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -50127,7 +50127,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 540.7152 764.54 0)
 			(hide yes)
 			(show_name no)
@@ -50182,7 +50182,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 539.75 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -50193,7 +50193,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 539.75 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -50204,7 +50204,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 539.75 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -50481,7 +50481,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1119.8352 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -50536,7 +50536,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1118.87 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -50547,7 +50547,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1118.87 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -50558,7 +50558,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1118.87 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -51284,7 +51284,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 914.0952 638.81 0)
 			(hide yes)
 			(show_name no)
@@ -51339,7 +51339,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 913.13 635 0)
 			(hide yes)
 			(show_name no)
@@ -51350,7 +51350,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 913.13 635 0)
 			(hide yes)
 			(show_name no)
@@ -51361,7 +51361,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 913.13 635 0)
 			(hide yes)
 			(show_name no)
@@ -51420,7 +51420,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 540.7152 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -51475,7 +51475,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 539.75 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -51486,7 +51486,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 539.75 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -51497,7 +51497,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 539.75 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -51556,7 +51556,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 182.5752 570.23 0)
 			(hide yes)
 			(show_name no)
@@ -51611,7 +51611,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 181.61 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -51622,7 +51622,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 181.61 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -51633,7 +51633,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 181.61 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -51771,7 +51771,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1051.2552 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -51826,7 +51826,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1050.29 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -51837,7 +51837,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1050.29 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -51848,7 +51848,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1050.29 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -52063,7 +52063,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1051.2552 638.81 0)
 			(hide yes)
 			(show_name no)
@@ -52118,7 +52118,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1050.29 635 0)
 			(hide yes)
 			(show_name no)
@@ -52129,7 +52129,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1050.29 635 0)
 			(hide yes)
 			(show_name no)
@@ -52140,7 +52140,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1050.29 635 0)
 			(hide yes)
 			(show_name no)
@@ -52199,7 +52199,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 334.9752 680.72 0)
 			(hide yes)
 			(show_name no)
@@ -52254,7 +52254,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 334.01 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -52265,7 +52265,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 334.01 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -52276,7 +52276,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 334.01 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -52335,7 +52335,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 540.7152 444.5 0)
 			(hide yes)
 			(show_name no)
@@ -52390,7 +52390,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 539.75 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -52401,7 +52401,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 539.75 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -52412,7 +52412,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 539.75 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -52847,7 +52847,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 334.9752 486.41 0)
 			(hide yes)
 			(show_name no)
@@ -52902,7 +52902,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 334.01 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -52913,7 +52913,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 334.01 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -52924,7 +52924,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 334.01 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -53943,7 +53943,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 403.5552 722.63 0)
 			(hide yes)
 			(show_name no)
@@ -53998,7 +53998,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 402.59 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -54009,7 +54009,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 402.59 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -54020,7 +54020,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 402.59 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -54079,7 +54079,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 403.5552 638.81 0)
 			(hide yes)
 			(show_name no)
@@ -54134,7 +54134,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 402.59 635 0)
 			(hide yes)
 			(show_name no)
@@ -54145,7 +54145,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 402.59 635 0)
 			(hide yes)
 			(show_name no)
@@ -54156,7 +54156,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 402.59 635 0)
 			(hide yes)
 			(show_name no)
@@ -54944,7 +54944,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1119.8352 292.1 0)
 			(hide yes)
 			(show_name no)
@@ -54999,7 +54999,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1118.87 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -55010,7 +55010,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1118.87 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -55021,7 +55021,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1118.87 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -55080,7 +55080,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 693.1152 722.63 0)
 			(hide yes)
 			(show_name no)
@@ -55135,7 +55135,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 692.15 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -55146,7 +55146,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 692.15 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -55157,7 +55157,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 692.15 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -55883,7 +55883,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 334.9752 292.1 0)
 			(hide yes)
 			(show_name no)
@@ -55938,7 +55938,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 334.01 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -55949,7 +55949,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 334.01 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -55960,7 +55960,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 334.01 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -56019,7 +56019,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 982.6752 570.23 0)
 			(hide yes)
 			(show_name no)
@@ -56074,7 +56074,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 981.71 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -56085,7 +56085,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 981.71 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -56096,7 +56096,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 981.71 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -56529,7 +56529,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 45.4152 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -56584,7 +56584,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 44.45 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -56595,7 +56595,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 44.45 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -56606,7 +56606,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 44.45 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -57490,7 +57490,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 182.5752 638.81 0)
 			(hide yes)
 			(show_name no)
@@ -57545,7 +57545,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 181.61 635 0)
 			(hide yes)
 			(show_name no)
@@ -57556,7 +57556,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 181.61 635 0)
 			(hide yes)
 			(show_name no)
@@ -57567,7 +57567,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 181.61 635 0)
 			(hide yes)
 			(show_name no)
@@ -57784,7 +57784,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 830.2752 764.54 0)
 			(hide yes)
 			(show_name no)
@@ -57839,7 +57839,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 829.31 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -57850,7 +57850,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 829.31 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -57861,7 +57861,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 829.31 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -58275,7 +58275,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 45.4152 638.81 0)
 			(hide yes)
 			(show_name no)
@@ -58330,7 +58330,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 44.45 635 0)
 			(hide yes)
 			(show_name no)
@@ -58341,7 +58341,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 44.45 635 0)
 			(hide yes)
 			(show_name no)
@@ -58352,7 +58352,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 44.45 635 0)
 			(hide yes)
 			(show_name no)
@@ -58411,7 +58411,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 182.5752 375.92 0)
 			(hide yes)
 			(show_name no)
@@ -58466,7 +58466,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 181.61 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -58477,7 +58477,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 181.61 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -58488,7 +58488,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 181.61 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -58780,7 +58780,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 982.6752 444.5 0)
 			(hide yes)
 			(show_name no)
@@ -58835,7 +58835,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 981.71 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -58846,7 +58846,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 981.71 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -58857,7 +58857,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 981.71 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -58916,7 +58916,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 251.1552 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -58971,7 +58971,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 250.19 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -58982,7 +58982,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 250.19 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -58993,7 +58993,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 250.19 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -59443,7 +59443,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 914.0952 444.5 0)
 			(hide yes)
 			(show_name no)
@@ -59498,7 +59498,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 913.13 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -59509,7 +59509,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 913.13 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -59520,7 +59520,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 913.13 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -60586,7 +60586,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1051.2552 680.72 0)
 			(hide yes)
 			(show_name no)
@@ -60641,7 +60641,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1050.29 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -60652,7 +60652,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1050.29 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -60663,7 +60663,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1050.29 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -61154,7 +61154,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 45.4152 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -61209,7 +61209,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 44.45 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -61220,7 +61220,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 44.45 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -61231,7 +61231,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 44.45 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -61878,7 +61878,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 624.5352 722.63 0)
 			(hide yes)
 			(show_name no)
@@ -61933,7 +61933,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 623.57 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -61944,7 +61944,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 623.57 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -61955,7 +61955,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 623.57 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -62170,7 +62170,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 251.1552 486.41 0)
 			(hide yes)
 			(show_name no)
@@ -62225,7 +62225,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 250.19 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -62236,7 +62236,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 250.19 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -62247,7 +62247,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 250.19 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -62464,7 +62464,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 624.5352 444.5 0)
 			(hide yes)
 			(show_name no)
@@ -62519,7 +62519,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 623.57 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -62530,7 +62530,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 623.57 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -62541,7 +62541,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 623.57 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -62600,7 +62600,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 624.5352 375.92 0)
 			(hide yes)
 			(show_name no)
@@ -62655,7 +62655,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 623.57 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -62666,7 +62666,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 623.57 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -62677,7 +62677,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 623.57 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -63345,7 +63345,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 914.0952 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -63400,7 +63400,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 913.13 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -63411,7 +63411,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 913.13 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -63422,7 +63422,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 913.13 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -64133,7 +64133,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 334.9752 375.92 0)
 			(hide yes)
 			(show_name no)
@@ -64188,7 +64188,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 334.01 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -64199,7 +64199,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 334.01 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -64210,7 +64210,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 334.01 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -64408,7 +64408,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1051.2552 528.32 0)
 			(hide yes)
 			(show_name no)
@@ -64463,7 +64463,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1050.29 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -64474,7 +64474,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1050.29 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -64485,7 +64485,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1050.29 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -64839,7 +64839,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 830.2752 638.81 0)
 			(hide yes)
 			(show_name no)
@@ -64894,7 +64894,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 829.31 635 0)
 			(hide yes)
 			(show_name no)
@@ -64905,7 +64905,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 829.31 635 0)
 			(hide yes)
 			(show_name no)
@@ -64916,7 +64916,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 829.31 635 0)
 			(hide yes)
 			(show_name no)
@@ -65191,7 +65191,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1119.8352 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -65246,7 +65246,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1118.87 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -65257,7 +65257,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1118.87 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -65268,7 +65268,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1118.87 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -65327,7 +65327,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 472.1352 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -65382,7 +65382,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 471.17 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -65393,7 +65393,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 471.17 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -65404,7 +65404,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 471.17 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -65914,7 +65914,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 624.5352 638.81 0)
 			(hide yes)
 			(show_name no)
@@ -65969,7 +65969,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 623.57 635 0)
 			(hide yes)
 			(show_name no)
@@ -65980,7 +65980,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 623.57 635 0)
 			(hide yes)
 			(show_name no)
@@ -65991,7 +65991,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 623.57 635 0)
 			(hide yes)
 			(show_name no)
@@ -66266,7 +66266,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 914.0952 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -66321,7 +66321,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 913.13 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -66332,7 +66332,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 913.13 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -66343,7 +66343,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 913.13 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -66481,7 +66481,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1051.2552 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -66536,7 +66536,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1050.29 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -66547,7 +66547,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1050.29 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -66558,7 +66558,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1050.29 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -66835,7 +66835,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 761.6952 292.1 0)
 			(hide yes)
 			(show_name no)
@@ -66890,7 +66890,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 760.73 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -66901,7 +66901,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 760.73 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -66912,7 +66912,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 760.73 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -67328,7 +67328,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 251.1552 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -67383,7 +67383,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 250.19 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -67394,7 +67394,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 250.19 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -67405,7 +67405,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 250.19 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -68129,7 +68129,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 113.9952 486.41 0)
 			(hide yes)
 			(show_name no)
@@ -68184,7 +68184,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 113.03 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -68195,7 +68195,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 113.03 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -68206,7 +68206,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 113.03 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -68498,7 +68498,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 472.1352 722.63 0)
 			(hide yes)
 			(show_name no)
@@ -68553,7 +68553,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 471.17 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -68564,7 +68564,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 471.17 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -68575,7 +68575,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 471.17 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -68792,7 +68792,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 540.7152 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -68847,7 +68847,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 539.75 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -68858,7 +68858,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 539.75 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -68869,7 +68869,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 539.75 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -69067,7 +69067,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 624.5352 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -69122,7 +69122,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 623.57 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -69133,7 +69133,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 623.57 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -69144,7 +69144,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 623.57 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -69280,7 +69280,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 403.5552 292.1 0)
 			(hide yes)
 			(show_name no)
@@ -69335,7 +69335,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 402.59 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -69346,7 +69346,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 402.59 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -69357,7 +69357,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 402.59 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -69989,7 +69989,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 693.1152 680.72 0)
 			(hide yes)
 			(show_name no)
@@ -70044,7 +70044,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 692.15 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -70055,7 +70055,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 692.15 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -70066,7 +70066,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 692.15 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -70638,7 +70638,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 182.5752 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -70693,7 +70693,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 181.61 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -70704,7 +70704,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 181.61 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -70715,7 +70715,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 181.61 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -70990,7 +70990,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 982.6752 375.92 0)
 			(hide yes)
 			(show_name no)
@@ -71045,7 +71045,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 981.71 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -71056,7 +71056,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 981.71 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -71067,7 +71067,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 981.71 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -71342,7 +71342,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 693.1152 486.41 0)
 			(hide yes)
 			(show_name no)
@@ -71397,7 +71397,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 692.15 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -71408,7 +71408,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 692.15 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -71419,7 +71419,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 692.15 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -71478,7 +71478,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 540.7152 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -71533,7 +71533,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 539.75 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -71544,7 +71544,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 539.75 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -71555,7 +71555,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 539.75 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -71614,7 +71614,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 113.9952 570.23 0)
 			(hide yes)
 			(show_name no)
@@ -71669,7 +71669,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 113.03 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -71680,7 +71680,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 113.03 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -71691,7 +71691,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 113.03 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -73204,7 +73204,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 182.5752 444.5 0)
 			(hide yes)
 			(show_name no)
@@ -73259,7 +73259,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 181.61 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -73270,7 +73270,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 181.61 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -73281,7 +73281,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 181.61 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -74892,7 +74892,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 540.7152 680.72 0)
 			(hide yes)
 			(show_name no)
@@ -74947,7 +74947,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 539.75 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -74958,7 +74958,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 539.75 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -74969,7 +74969,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 539.75 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -75028,7 +75028,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 761.6952 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -75083,7 +75083,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 760.73 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -75094,7 +75094,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 760.73 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -75105,7 +75105,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 760.73 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -76325,7 +76325,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 982.6752 680.72 0)
 			(hide yes)
 			(show_name no)
@@ -76380,7 +76380,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 981.71 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -76391,7 +76391,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 981.71 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -76402,7 +76402,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 981.71 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -77188,7 +77188,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 403.5552 375.92 0)
 			(hide yes)
 			(show_name no)
@@ -77243,7 +77243,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 402.59 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -77254,7 +77254,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 402.59 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -77265,7 +77265,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 402.59 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -77403,7 +77403,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 982.6752 486.41 0)
 			(hide yes)
 			(show_name no)
@@ -77458,7 +77458,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 981.71 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -77469,7 +77469,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 981.71 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -77480,7 +77480,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 981.71 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -77770,7 +77770,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 914.0952 570.23 0)
 			(hide yes)
 			(show_name no)
@@ -77825,7 +77825,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 913.13 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -77836,7 +77836,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 913.13 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -77847,7 +77847,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 913.13 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -78201,7 +78201,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 914.0952 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -78256,7 +78256,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 913.13 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -78267,7 +78267,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 913.13 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -78278,7 +78278,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 913.13 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -78555,7 +78555,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 472.1352 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -78610,7 +78610,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 471.17 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -78621,7 +78621,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 471.17 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -78632,7 +78632,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 471.17 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -79140,7 +79140,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 982.6752 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -79195,7 +79195,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 981.71 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -79206,7 +79206,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 981.71 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -79217,7 +79217,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 981.71 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -79353,7 +79353,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 761.6952 764.54 0)
 			(hide yes)
 			(show_name no)
@@ -79408,7 +79408,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 760.73 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -79419,7 +79419,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 760.73 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -79430,7 +79430,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 760.73 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -79489,7 +79489,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 693.1152 570.23 0)
 			(hide yes)
 			(show_name no)
@@ -79544,7 +79544,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 692.15 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -79555,7 +79555,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 692.15 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -79566,7 +79566,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 692.15 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -79920,7 +79920,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 334.9752 570.23 0)
 			(hide yes)
 			(show_name no)
@@ -79975,7 +79975,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 334.01 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -79986,7 +79986,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 334.01 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -79997,7 +79997,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 334.01 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -80135,7 +80135,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 624.5352 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -80190,7 +80190,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 623.57 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -80201,7 +80201,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 623.57 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -80212,7 +80212,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 623.57 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -81062,7 +81062,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 693.1152 528.32 0)
 			(hide yes)
 			(show_name no)
@@ -81117,7 +81117,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 692.15 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -81128,7 +81128,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 692.15 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -81139,7 +81139,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 692.15 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -81570,7 +81570,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 334.9752 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -81625,7 +81625,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 334.01 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -81636,7 +81636,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 334.01 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -81647,7 +81647,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 334.01 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -82123,7 +82123,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1051.2552 292.1 0)
 			(hide yes)
 			(show_name no)
@@ -82178,7 +82178,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1050.29 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -82189,7 +82189,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1050.29 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -82200,7 +82200,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1050.29 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -82573,7 +82573,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 830.2752 486.41 0)
 			(hide yes)
 			(show_name no)
@@ -82628,7 +82628,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 829.31 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -82639,7 +82639,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 829.31 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -82650,7 +82650,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 829.31 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -83237,7 +83237,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 45.4152 722.63 0)
 			(hide yes)
 			(show_name no)
@@ -83292,7 +83292,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 44.45 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -83303,7 +83303,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 44.45 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -83314,7 +83314,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 44.45 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -83373,7 +83373,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 761.6952 722.63 0)
 			(hide yes)
 			(show_name no)
@@ -83428,7 +83428,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 760.73 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -83439,7 +83439,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 760.73 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -83450,7 +83450,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 760.73 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -83586,7 +83586,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 251.1552 528.32 0)
 			(hide yes)
 			(show_name no)
@@ -83641,7 +83641,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 250.19 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -83652,7 +83652,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 250.19 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -83663,7 +83663,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 250.19 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -83861,7 +83861,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 472.1352 486.41 0)
 			(hide yes)
 			(show_name no)
@@ -83916,7 +83916,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 471.17 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -83927,7 +83927,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 471.17 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -83938,7 +83938,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 471.17 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -85558,7 +85558,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 403.5552 528.32 0)
 			(hide yes)
 			(show_name no)
@@ -85613,7 +85613,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 402.59 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -85624,7 +85624,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 402.59 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -85635,7 +85635,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 402.59 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -86380,7 +86380,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 982.6752 528.32 0)
 			(hide yes)
 			(show_name no)
@@ -86435,7 +86435,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 981.71 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -86446,7 +86446,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 981.71 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -86457,7 +86457,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 981.71 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -86516,7 +86516,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 624.5352 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -86571,7 +86571,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 623.57 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -86582,7 +86582,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 623.57 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -86593,7 +86593,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 623.57 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -86652,7 +86652,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 45.4152 444.5 0)
 			(hide yes)
 			(show_name no)
@@ -86707,7 +86707,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 44.45 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -86718,7 +86718,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 44.45 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -86729,7 +86729,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 44.45 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -87006,7 +87006,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 914.0952 292.1 0)
 			(hide yes)
 			(show_name no)
@@ -87061,7 +87061,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 913.13 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -87072,7 +87072,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 913.13 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -87083,7 +87083,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 913.13 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -87732,7 +87732,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 113.9952 680.72 0)
 			(hide yes)
 			(show_name no)
@@ -87787,7 +87787,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 113.03 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -87798,7 +87798,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 113.03 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -87809,7 +87809,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 113.03 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -87868,7 +87868,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 693.1152 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -87923,7 +87923,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 692.15 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -87934,7 +87934,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 692.15 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -87945,7 +87945,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 692.15 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -88237,7 +88237,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 914.0952 528.32 0)
 			(hide yes)
 			(show_name no)
@@ -88292,7 +88292,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 913.13 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -88303,7 +88303,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 913.13 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -88314,7 +88314,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 913.13 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -88373,7 +88373,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 182.5752 764.54 0)
 			(hide yes)
 			(show_name no)
@@ -88428,7 +88428,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 181.61 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -88439,7 +88439,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 181.61 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -88450,7 +88450,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 181.61 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -89360,7 +89360,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 251.1552 375.92 0)
 			(hide yes)
 			(show_name no)
@@ -89415,7 +89415,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 250.19 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -89426,7 +89426,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 250.19 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -89437,7 +89437,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 250.19 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -89496,7 +89496,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 761.6952 528.32 0)
 			(hide yes)
 			(show_name no)
@@ -89551,7 +89551,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 760.73 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -89562,7 +89562,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 760.73 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -89573,7 +89573,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 760.73 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -89788,7 +89788,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 472.1352 528.32 0)
 			(hide yes)
 			(show_name no)
@@ -89843,7 +89843,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 471.17 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -89854,7 +89854,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 471.17 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -89865,7 +89865,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 471.17 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -89924,7 +89924,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 251.1552 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -89979,7 +89979,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 250.19 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -89990,7 +89990,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 250.19 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -90001,7 +90001,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 250.19 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -90731,7 +90731,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 113.9952 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -90786,7 +90786,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 113.03 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -90797,7 +90797,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 113.03 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -90808,7 +90808,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 113.03 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -91085,7 +91085,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 693.1152 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -91140,7 +91140,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 692.15 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -91151,7 +91151,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 692.15 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -91162,7 +91162,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 692.15 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -91377,7 +91377,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 113.9952 444.5 0)
 			(hide yes)
 			(show_name no)
@@ -91432,7 +91432,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 113.03 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -91443,7 +91443,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 113.03 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -91454,7 +91454,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 113.03 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -91652,7 +91652,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 914.0952 375.92 0)
 			(hide yes)
 			(show_name no)
@@ -91707,7 +91707,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 913.13 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -91718,7 +91718,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 913.13 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -91729,7 +91729,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 913.13 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -92083,7 +92083,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1051.2552 444.5 0)
 			(hide yes)
 			(show_name no)
@@ -92138,7 +92138,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1050.29 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -92149,7 +92149,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1050.29 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -92160,7 +92160,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1050.29 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -92454,7 +92454,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 472.1352 570.23 0)
 			(hide yes)
 			(show_name no)
@@ -92509,7 +92509,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 471.17 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -92520,7 +92520,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 471.17 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -92531,7 +92531,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 471.17 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -92590,7 +92590,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1051.2552 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -92645,7 +92645,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1050.29 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -92656,7 +92656,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1050.29 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -92667,7 +92667,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1050.29 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -93162,7 +93162,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 472.1352 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -93217,7 +93217,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 471.17 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -93228,7 +93228,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 471.17 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -93239,7 +93239,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 471.17 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -93298,7 +93298,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 540.7152 486.41 0)
 			(hide yes)
 			(show_name no)
@@ -93353,7 +93353,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 539.75 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -93364,7 +93364,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 539.75 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -93375,7 +93375,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 539.75 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -94060,7 +94060,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 113.9952 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -94115,7 +94115,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 113.03 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -94126,7 +94126,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 113.03 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -94137,7 +94137,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 113.03 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -94275,7 +94275,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 830.2752 570.23 0)
 			(hide yes)
 			(show_name no)
@@ -94330,7 +94330,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 829.31 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -94341,7 +94341,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 829.31 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -94352,7 +94352,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 829.31 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -94550,7 +94550,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 624.5352 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -94605,7 +94605,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 623.57 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -94616,7 +94616,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 623.57 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -94627,7 +94627,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 623.57 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -94686,7 +94686,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 113.9952 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -94741,7 +94741,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 113.03 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -94752,7 +94752,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 113.03 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -94763,7 +94763,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 113.03 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -94899,7 +94899,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 251.1552 680.72 0)
 			(hide yes)
 			(show_name no)
@@ -94954,7 +94954,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 250.19 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -94965,7 +94965,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 250.19 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -94976,7 +94976,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 250.19 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -95035,7 +95035,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 830.2752 722.63 0)
 			(hide yes)
 			(show_name no)
@@ -95090,7 +95090,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 829.31 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -95101,7 +95101,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 829.31 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -95112,7 +95112,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 829.31 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -95171,7 +95171,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 624.5352 764.54 0)
 			(hide yes)
 			(show_name no)
@@ -95226,7 +95226,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 623.57 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -95237,7 +95237,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 623.57 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -95248,7 +95248,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 623.57 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -95307,7 +95307,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 472.1352 444.5 0)
 			(hide yes)
 			(show_name no)
@@ -95362,7 +95362,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 471.17 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -95373,7 +95373,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 471.17 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -95384,7 +95384,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 471.17 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -95520,7 +95520,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 334.9752 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -95575,7 +95575,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 334.01 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -95586,7 +95586,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 334.01 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -95597,7 +95597,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 334.01 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -95810,7 +95810,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1119.8352 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -95865,7 +95865,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1118.87 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -95876,7 +95876,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1118.87 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -95887,7 +95887,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1118.87 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -96632,7 +96632,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 251.1552 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -96687,7 +96687,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 250.19 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -96698,7 +96698,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 250.19 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -96709,7 +96709,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 250.19 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -96907,7 +96907,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 45.4152 680.72 0)
 			(hide yes)
 			(show_name no)
@@ -96962,7 +96962,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 44.45 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -96973,7 +96973,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 44.45 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -96984,7 +96984,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 44.45 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -98546,7 +98546,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1051.2552 570.23 0)
 			(hide yes)
 			(show_name no)
@@ -98601,7 +98601,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1050.29 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -98612,7 +98612,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1050.29 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -98623,7 +98623,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1050.29 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -98840,7 +98840,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 182.5752 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -98895,7 +98895,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 181.61 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -98906,7 +98906,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 181.61 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -98917,7 +98917,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 181.61 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -99055,7 +99055,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 693.1152 638.81 0)
 			(hide yes)
 			(show_name no)
@@ -99110,7 +99110,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 692.15 635 0)
 			(hide yes)
 			(show_name no)
@@ -99121,7 +99121,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 692.15 635 0)
 			(hide yes)
 			(show_name no)
@@ -99132,7 +99132,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 692.15 635 0)
 			(hide yes)
 			(show_name no)
@@ -99270,7 +99270,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 624.5352 680.72 0)
 			(hide yes)
 			(show_name no)
@@ -99325,7 +99325,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 623.57 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -99336,7 +99336,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 623.57 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -99347,7 +99347,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 623.57 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -99406,7 +99406,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1119.8352 486.41 0)
 			(hide yes)
 			(show_name no)
@@ -99461,7 +99461,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1118.87 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -99472,7 +99472,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1118.87 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -99483,7 +99483,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1118.87 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -99542,7 +99542,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 624.5352 292.1 0)
 			(hide yes)
 			(show_name no)
@@ -99597,7 +99597,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 623.57 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -99608,7 +99608,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 623.57 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -99619,7 +99619,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 623.57 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -99678,7 +99678,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 624.5352 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -99733,7 +99733,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 623.57 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -99744,7 +99744,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 623.57 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -99755,7 +99755,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 623.57 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -100915,7 +100915,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 334.9752 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -100970,7 +100970,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 334.01 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -100981,7 +100981,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 334.01 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -100992,7 +100992,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 334.01 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -101051,7 +101051,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 472.1352 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -101106,7 +101106,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 471.17 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -101117,7 +101117,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 471.17 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -101128,7 +101128,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 471.17 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -101187,7 +101187,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 472.1352 638.81 0)
 			(hide yes)
 			(show_name no)
@@ -101242,7 +101242,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 471.17 635 0)
 			(hide yes)
 			(show_name no)
@@ -101253,7 +101253,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 471.17 635 0)
 			(hide yes)
 			(show_name no)
@@ -101264,7 +101264,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 471.17 635 0)
 			(hide yes)
 			(show_name no)
@@ -101323,7 +101323,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 693.1152 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -101378,7 +101378,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 692.15 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -101389,7 +101389,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 692.15 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -101400,7 +101400,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 692.15 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -101536,7 +101536,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 761.6952 570.23 0)
 			(hide yes)
 			(show_name no)
@@ -101591,7 +101591,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 760.73 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -101602,7 +101602,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 760.73 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -101613,7 +101613,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 760.73 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -101672,7 +101672,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 830.2752 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -101727,7 +101727,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 829.31 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -101738,7 +101738,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 829.31 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -101749,7 +101749,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 829.31 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -102321,7 +102321,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 182.5752 680.72 0)
 			(hide yes)
 			(show_name no)
@@ -102376,7 +102376,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 181.61 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -102387,7 +102387,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 181.61 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -102398,7 +102398,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 181.61 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -102457,7 +102457,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 830.2752 375.92 0)
 			(hide yes)
 			(show_name no)
@@ -102512,7 +102512,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 829.31 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -102523,7 +102523,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 829.31 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -102534,7 +102534,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 829.31 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -102593,7 +102593,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 540.7152 292.1 0)
 			(hide yes)
 			(show_name no)
@@ -102648,7 +102648,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 539.75 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -102659,7 +102659,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 539.75 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -102670,7 +102670,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 539.75 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -103225,7 +103225,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1119.8352 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -103280,7 +103280,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1118.87 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -103291,7 +103291,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1118.87 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -103302,7 +103302,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1118.87 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -103797,7 +103797,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 182.5752 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -103852,7 +103852,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 181.61 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -103863,7 +103863,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 181.61 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -103874,7 +103874,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 181.61 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -103933,7 +103933,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 334.9752 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -103988,7 +103988,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 334.01 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -103999,7 +103999,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 334.01 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -104010,7 +104010,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 334.01 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -104069,7 +104069,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 113.9952 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -104124,7 +104124,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 113.03 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -104135,7 +104135,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 113.03 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -104146,7 +104146,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 113.03 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -104205,7 +104205,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 982.6752 292.1 0)
 			(hide yes)
 			(show_name no)
@@ -104260,7 +104260,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 981.71 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -104271,7 +104271,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 981.71 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -104282,7 +104282,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 981.71 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -104634,7 +104634,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 830.2752 444.5 0)
 			(hide yes)
 			(show_name no)
@@ -104689,7 +104689,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 829.31 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -104700,7 +104700,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 829.31 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -104711,7 +104711,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 829.31 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -104847,7 +104847,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 761.6952 486.41 0)
 			(hide yes)
 			(show_name no)
@@ -104902,7 +104902,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 760.73 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -104913,7 +104913,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 760.73 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -104924,7 +104924,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 760.73 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -105278,7 +105278,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 830.2752 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -105333,7 +105333,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 829.31 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -105344,7 +105344,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 829.31 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -105355,7 +105355,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 829.31 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -105630,7 +105630,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 334.9752 444.5 0)
 			(hide yes)
 			(show_name no)
@@ -105685,7 +105685,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 334.01 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -105696,7 +105696,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 334.01 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -105707,7 +105707,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 334.01 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -106713,7 +106713,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 761.6952 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -106768,7 +106768,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 760.73 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -106779,7 +106779,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 760.73 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -106790,7 +106790,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 760.73 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -106849,7 +106849,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 45.4152 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -106904,7 +106904,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 44.45 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -106915,7 +106915,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 44.45 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -106926,7 +106926,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 44.45 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -107558,7 +107558,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 624.5352 570.23 0)
 			(hide yes)
 			(show_name no)
@@ -107613,7 +107613,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 623.57 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -107624,7 +107624,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 623.57 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -107635,7 +107635,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 623.57 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -107694,7 +107694,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 403.5552 444.5 0)
 			(hide yes)
 			(show_name no)
@@ -107749,7 +107749,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 402.59 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -107760,7 +107760,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 402.59 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -107771,7 +107771,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 402.59 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -108873,7 +108873,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 45.4152 375.92 0)
 			(hide yes)
 			(show_name no)
@@ -108928,7 +108928,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 44.45 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -108939,7 +108939,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 44.45 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -108950,7 +108950,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 44.45 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -109225,7 +109225,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 113.9952 375.92 0)
 			(hide yes)
 			(show_name no)
@@ -109280,7 +109280,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 113.03 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -109291,7 +109291,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 113.03 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -109302,7 +109302,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 113.03 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -109795,7 +109795,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 761.6952 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -109850,7 +109850,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 760.73 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -109861,7 +109861,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 760.73 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -109872,7 +109872,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 760.73 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -110463,7 +110463,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 830.2752 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -110518,7 +110518,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 829.31 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -110529,7 +110529,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 829.31 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -110540,7 +110540,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 829.31 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -110599,7 +110599,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 761.6952 638.81 0)
 			(hide yes)
 			(show_name no)
@@ -110654,7 +110654,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 760.73 635 0)
 			(hide yes)
 			(show_name no)
@@ -110665,7 +110665,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 760.73 635 0)
 			(hide yes)
 			(show_name no)
@@ -110676,7 +110676,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 760.73 635 0)
 			(hide yes)
 			(show_name no)
@@ -110814,7 +110814,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 334.9752 638.81 0)
 			(hide yes)
 			(show_name no)
@@ -110869,7 +110869,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 334.01 635 0)
 			(hide yes)
 			(show_name no)
@@ -110880,7 +110880,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 334.01 635 0)
 			(hide yes)
 			(show_name no)
@@ -110891,7 +110891,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 334.01 635 0)
 			(hide yes)
 			(show_name no)
@@ -111029,7 +111029,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 693.1152 292.1 0)
 			(hide yes)
 			(show_name no)
@@ -111084,7 +111084,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 692.15 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -111095,7 +111095,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 692.15 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -111106,7 +111106,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 692.15 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -111323,7 +111323,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 830.2752 680.72 0)
 			(hide yes)
 			(show_name no)
@@ -111378,7 +111378,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 829.31 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -111389,7 +111389,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 829.31 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -111400,7 +111400,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 829.31 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -112064,7 +112064,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 182.5752 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -112119,7 +112119,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 181.61 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -112130,7 +112130,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 181.61 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -112141,7 +112141,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 181.61 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -113538,7 +113538,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 472.1352 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -113593,7 +113593,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 471.17 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -113604,7 +113604,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 471.17 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -113615,7 +113615,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 471.17 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -114264,7 +114264,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 113.9952 528.32 0)
 			(hide yes)
 			(show_name no)
@@ -114319,7 +114319,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 113.03 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -114330,7 +114330,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 113.03 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -114341,7 +114341,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 113.03 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -115069,7 +115069,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 624.5352 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -115124,7 +115124,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 623.57 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -115135,7 +115135,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 623.57 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -115146,7 +115146,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 623.57 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -115421,7 +115421,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 45.4152 764.54 0)
 			(hide yes)
 			(show_name no)
@@ -115476,7 +115476,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 44.45 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -115487,7 +115487,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 44.45 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -115498,7 +115498,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 44.45 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -115557,7 +115557,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 403.5552 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -115612,7 +115612,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 402.59 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -115623,7 +115623,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 402.59 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -115634,7 +115634,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 402.59 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -116142,7 +116142,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 113.9952 764.54 0)
 			(hide yes)
 			(show_name no)
@@ -116197,7 +116197,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 113.03 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -116208,7 +116208,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 113.03 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -116219,7 +116219,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 113.03 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -116945,7 +116945,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 982.6752 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -117000,7 +117000,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 981.71 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -117011,7 +117011,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 981.71 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -117022,7 +117022,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 981.71 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -117436,7 +117436,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1119.8352 680.72 0)
 			(hide yes)
 			(show_name no)
@@ -117491,7 +117491,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1118.87 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -117502,7 +117502,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1118.87 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -117513,7 +117513,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1118.87 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -118810,7 +118810,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 45.4152 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -118865,7 +118865,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 44.45 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -118876,7 +118876,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 44.45 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -118887,7 +118887,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 44.45 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -118946,7 +118946,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 830.2752 292.1 0)
 			(hide yes)
 			(show_name no)
@@ -119001,7 +119001,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 829.31 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -119012,7 +119012,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 829.31 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -119023,7 +119023,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 829.31 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -119082,7 +119082,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1119.8352 375.92 0)
 			(hide yes)
 			(show_name no)
@@ -119137,7 +119137,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1118.87 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -119148,7 +119148,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1118.87 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -119159,7 +119159,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1118.87 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -119436,7 +119436,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 540.7152 638.81 0)
 			(hide yes)
 			(show_name no)
@@ -119491,7 +119491,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 539.75 635 0)
 			(hide yes)
 			(show_name no)
@@ -119502,7 +119502,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 539.75 635 0)
 			(hide yes)
 			(show_name no)
@@ -119513,7 +119513,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 539.75 635 0)
 			(hide yes)
 			(show_name no)
@@ -119572,7 +119572,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 540.7152 528.32 0)
 			(hide yes)
 			(show_name no)
@@ -119627,7 +119627,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 539.75 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -119638,7 +119638,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 539.75 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -119649,7 +119649,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 539.75 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -119847,7 +119847,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 113.9952 722.63 0)
 			(hide yes)
 			(show_name no)
@@ -119902,7 +119902,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 113.03 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -119913,7 +119913,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 113.03 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -119924,7 +119924,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 113.03 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -119983,7 +119983,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 251.1552 570.23 0)
 			(hide yes)
 			(show_name no)
@@ -120038,7 +120038,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 250.19 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -120049,7 +120049,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 250.19 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -120060,7 +120060,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 250.19 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -120258,7 +120258,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1119.8352 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -120313,7 +120313,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1118.87 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -120324,7 +120324,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1118.87 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -120335,7 +120335,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1118.87 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -120691,7 +120691,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 182.5752 486.41 0)
 			(hide yes)
 			(show_name no)
@@ -120746,7 +120746,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 181.61 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -120757,7 +120757,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 181.61 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -120768,7 +120768,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 181.61 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -121280,7 +121280,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 182.5752 292.1 0)
 			(hide yes)
 			(show_name no)
@@ -121335,7 +121335,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 181.61 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -121346,7 +121346,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 181.61 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -121357,7 +121357,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 181.61 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -121632,7 +121632,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 472.1352 375.92 0)
 			(hide yes)
 			(show_name no)
@@ -121687,7 +121687,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 471.17 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -121698,7 +121698,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 471.17 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -121709,7 +121709,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 471.17 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -121907,7 +121907,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 761.6952 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -121962,7 +121962,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 760.73 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -121973,7 +121973,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 760.73 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -121984,7 +121984,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 760.73 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -122043,7 +122043,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 251.1552 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -122098,7 +122098,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 250.19 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -122109,7 +122109,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 250.19 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -122120,7 +122120,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 250.19 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -122829,7 +122829,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 251.1552 764.54 0)
 			(hide yes)
 			(show_name no)
@@ -122884,7 +122884,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 250.19 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -122895,7 +122895,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 250.19 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -122906,7 +122906,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 250.19 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -124066,7 +124066,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 182.5752 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -124121,7 +124121,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 181.61 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -124132,7 +124132,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 181.61 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -124143,7 +124143,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 181.61 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -124202,7 +124202,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 251.1552 292.1 0)
 			(hide yes)
 			(show_name no)
@@ -124257,7 +124257,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 250.19 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -124268,7 +124268,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 250.19 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -124279,7 +124279,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 250.19 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -124417,7 +124417,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 334.9752 528.32 0)
 			(hide yes)
 			(show_name no)
@@ -124472,7 +124472,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 334.01 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -124483,7 +124483,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 334.01 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -124494,7 +124494,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 334.01 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -124709,7 +124709,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1119.8352 570.23 0)
 			(hide yes)
 			(show_name no)
@@ -124764,7 +124764,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1118.87 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -124775,7 +124775,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1118.87 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -124786,7 +124786,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1118.87 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -125354,7 +125354,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 45.4152 486.41 0)
 			(hide yes)
 			(show_name no)
@@ -125409,7 +125409,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 44.45 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -125420,7 +125420,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 44.45 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -125431,7 +125431,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 44.45 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -125864,7 +125864,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 693.1152 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -125919,7 +125919,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 692.15 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -125930,7 +125930,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 692.15 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -125941,7 +125941,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 692.15 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -126218,7 +126218,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 403.5552 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -126273,7 +126273,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 402.59 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -126284,7 +126284,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 402.59 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -126295,7 +126295,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 402.59 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -126354,7 +126354,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 982.6752 638.81 0)
 			(hide yes)
 			(show_name no)
@@ -126409,7 +126409,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 981.71 635 0)
 			(hide yes)
 			(show_name no)
@@ -126420,7 +126420,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 981.71 635 0)
 			(hide yes)
 			(show_name no)
@@ -126431,7 +126431,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 981.71 635 0)
 			(hide yes)
 			(show_name no)
@@ -126708,7 +126708,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 693.1152 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -126763,7 +126763,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 692.15 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -126774,7 +126774,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 692.15 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -126785,7 +126785,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 692.15 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -126844,7 +126844,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 982.6752 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -126899,7 +126899,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 981.71 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -126910,7 +126910,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 981.71 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -126921,7 +126921,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 981.71 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -127277,7 +127277,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 693.1152 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -127332,7 +127332,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 692.15 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -127343,7 +127343,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 692.15 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -127354,7 +127354,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 692.15 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -127706,7 +127706,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 830.2752 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -127761,7 +127761,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 829.31 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -127772,7 +127772,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 829.31 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -127783,7 +127783,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 829.31 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -127921,7 +127921,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1051.2552 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -127976,7 +127976,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1050.29 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -127987,7 +127987,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1050.29 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -127998,7 +127998,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1050.29 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -128196,7 +128196,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 472.1352 764.54 0)
 			(hide yes)
 			(show_name no)
@@ -128251,7 +128251,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 471.17 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -128262,7 +128262,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 471.17 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -128273,7 +128273,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 471.17 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -128629,7 +128629,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 761.6952 375.92 0)
 			(hide yes)
 			(show_name no)
@@ -128684,7 +128684,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 760.73 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -128695,7 +128695,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 760.73 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -128706,7 +128706,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 760.73 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -129295,7 +129295,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 830.2752 528.32 0)
 			(hide yes)
 			(show_name no)
@@ -129350,7 +129350,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 829.31 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -129361,7 +129361,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 829.31 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -129372,7 +129372,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 829.31 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -129431,7 +129431,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 403.5552 764.54 0)
 			(hide yes)
 			(show_name no)
@@ -129486,7 +129486,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 402.59 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -129497,7 +129497,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 402.59 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -129508,7 +129508,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 402.59 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -129567,7 +129567,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1051.2552 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -129622,7 +129622,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1050.29 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -129633,7 +129633,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1050.29 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -129644,7 +129644,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1050.29 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -130075,7 +130075,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 914.0952 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -130130,7 +130130,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 913.13 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -130141,7 +130141,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 913.13 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -130152,7 +130152,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 913.13 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -130211,7 +130211,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 182.5752 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -130266,7 +130266,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 181.61 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -130277,7 +130277,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 181.61 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -130288,7 +130288,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 181.61 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -130644,7 +130644,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 113.9952 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -130699,7 +130699,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 113.03 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -130710,7 +130710,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 113.03 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -130721,7 +130721,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 113.03 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -130780,7 +130780,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 761.6952 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -130835,7 +130835,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 760.73 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -130846,7 +130846,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 760.73 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -130857,7 +130857,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 760.73 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -131412,7 +131412,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 540.7152 570.23 0)
 			(hide yes)
 			(show_name no)
@@ -131467,7 +131467,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 539.75 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -131478,7 +131478,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 539.75 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -131489,7 +131489,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 539.75 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -131548,7 +131548,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 182.5752 722.63 0)
 			(hide yes)
 			(show_name no)
@@ -131603,7 +131603,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 181.61 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -131614,7 +131614,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 181.61 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -131625,7 +131625,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 181.61 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -132336,7 +132336,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 472.1352 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -132391,7 +132391,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 471.17 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -132402,7 +132402,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 471.17 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -132413,7 +132413,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 471.17 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -132705,7 +132705,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 334.9752 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -132760,7 +132760,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 334.01 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -132771,7 +132771,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 334.01 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -132782,7 +132782,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 334.01 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -133352,7 +133352,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 45.4152 292.1 0)
 			(hide yes)
 			(show_name no)
@@ -133407,7 +133407,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 44.45 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -133418,7 +133418,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 44.45 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -133429,7 +133429,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 44.45 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -134140,7 +134140,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 45.4152 570.23 0)
 			(hide yes)
 			(show_name no)
@@ -134195,7 +134195,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 44.45 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -134206,7 +134206,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 44.45 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -134217,7 +134217,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 44.45 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -134276,7 +134276,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 982.6752 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -134331,7 +134331,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 981.71 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -134342,7 +134342,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 981.71 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -134353,7 +134353,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 981.71 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -134705,7 +134705,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 251.1552 444.5 0)
 			(hide yes)
 			(show_name no)
@@ -134760,7 +134760,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 250.19 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -134771,7 +134771,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 250.19 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -134782,7 +134782,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 250.19 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -134841,7 +134841,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 761.6952 444.5 0)
 			(hide yes)
 			(show_name no)
@@ -134896,7 +134896,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 760.73 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -134907,7 +134907,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 760.73 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -134918,7 +134918,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 760.73 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -135054,7 +135054,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 624.5352 528.32 0)
 			(hide yes)
 			(show_name no)
@@ -135109,7 +135109,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 623.57 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -135120,7 +135120,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 623.57 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -135131,7 +135131,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 623.57 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -135722,7 +135722,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 403.5552 486.41 0)
 			(hide yes)
 			(show_name no)
@@ -135777,7 +135777,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 402.59 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -135788,7 +135788,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 402.59 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -135799,7 +135799,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 402.59 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -135858,7 +135858,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 403.5552 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -135913,7 +135913,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 402.59 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -135924,7 +135924,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 402.59 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -135935,7 +135935,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 402.59 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -136210,7 +136210,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 761.6952 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -136265,7 +136265,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 760.73 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -136276,7 +136276,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 760.73 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -136287,7 +136287,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 760.73 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -136425,7 +136425,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 334.9752 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -136480,7 +136480,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 334.01 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -136491,7 +136491,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 334.01 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -136502,7 +136502,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 334.01 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -137093,7 +137093,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 830.2752 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -137148,7 +137148,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 829.31 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -137159,7 +137159,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 829.31 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -137170,7 +137170,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 829.31 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -137229,7 +137229,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 830.2752 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -137284,7 +137284,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 829.31 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -137295,7 +137295,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 829.31 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -137306,7 +137306,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 829.31 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -137365,7 +137365,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 914.0952 486.41 0)
 			(hide yes)
 			(show_name no)
@@ -137420,7 +137420,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 913.13 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -137431,7 +137431,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 913.13 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -137442,7 +137442,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 913.13 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -137580,7 +137580,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1119.8352 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -137635,7 +137635,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1118.87 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -137646,7 +137646,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1118.87 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -137657,7 +137657,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1118.87 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -137874,7 +137874,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 251.1552 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -137929,7 +137929,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 250.19 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -137940,7 +137940,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 250.19 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -137951,7 +137951,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 250.19 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -138010,7 +138010,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 540.7152 375.92 0)
 			(hide yes)
 			(show_name no)
@@ -138065,7 +138065,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 539.75 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -138076,7 +138076,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 539.75 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -138087,7 +138087,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 539.75 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -139343,7 +139343,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 403.5552 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -139398,7 +139398,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 402.59 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -139409,7 +139409,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 402.59 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -139420,7 +139420,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 402.59 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -139789,7 +139789,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 403.5552 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -139844,7 +139844,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 402.59 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -139855,7 +139855,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 402.59 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -139866,7 +139866,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 402.59 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -140592,7 +140592,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1051.2552 486.41 0)
 			(hide yes)
 			(show_name no)
@@ -140647,7 +140647,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1050.29 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -140658,7 +140658,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1050.29 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -140669,7 +140669,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1050.29 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -140884,7 +140884,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 914.0952 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -140939,7 +140939,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 913.13 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -140950,7 +140950,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 913.13 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -140961,7 +140961,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 913.13 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -141020,7 +141020,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 540.7152 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -141075,7 +141075,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 539.75 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -141086,7 +141086,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 539.75 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -141097,7 +141097,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 539.75 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -141526,7 +141526,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 693.1152 375.92 0)
 			(hide yes)
 			(show_name no)
@@ -141581,7 +141581,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 692.15 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -141592,7 +141592,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 692.15 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -141603,7 +141603,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 692.15 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -141820,7 +141820,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 182.5752 528.32 0)
 			(hide yes)
 			(show_name no)
@@ -141875,7 +141875,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 181.61 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -141886,7 +141886,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 181.61 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -141897,7 +141897,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 181.61 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -142251,7 +142251,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 472.1352 292.1 0)
 			(hide yes)
 			(show_name no)
@@ -142306,7 +142306,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 471.17 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -142317,7 +142317,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 471.17 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -142328,7 +142328,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 471.17 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -142761,7 +142761,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 540.7152 722.63 0)
 			(hide yes)
 			(show_name no)
@@ -142816,7 +142816,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 539.75 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -142827,7 +142827,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 539.75 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -142838,7 +142838,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 539.75 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -143190,7 +143190,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 113.9952 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -143245,7 +143245,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 113.03 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -143256,7 +143256,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 113.03 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -143267,7 +143267,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 113.03 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -143326,7 +143326,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1119.8352 638.81 0)
 			(hide yes)
 			(show_name no)
@@ -143381,7 +143381,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1118.87 635 0)
 			(hide yes)
 			(show_name no)
@@ -143392,7 +143392,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1118.87 635 0)
 			(hide yes)
 			(show_name no)
@@ -143403,7 +143403,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1118.87 635 0)
 			(hide yes)
 			(show_name no)
@@ -143757,7 +143757,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1119.8352 528.32 0)
 			(hide yes)
 			(show_name no)
@@ -143812,7 +143812,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1118.87 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -143823,7 +143823,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1118.87 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -143834,7 +143834,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1118.87 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -143972,7 +143972,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 45.4152 528.32 0)
 			(hide yes)
 			(show_name no)
@@ -144027,7 +144027,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 44.45 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -144038,7 +144038,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 44.45 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -144049,7 +144049,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 44.45 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -144542,7 +144542,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 334.9752 764.54 0)
 			(hide yes)
 			(show_name no)
@@ -144597,7 +144597,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 334.01 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -144608,7 +144608,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 334.01 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -144619,7 +144619,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 334.01 760.73 0)
 			(hide yes)
 			(show_name no)
@@ -144911,7 +144911,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 1051.2552 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -144966,7 +144966,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 1050.29 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -144977,7 +144977,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 1050.29 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -144988,7 +144988,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 1050.29 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -145481,7 +145481,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 251.1552 722.63 0)
 			(hide yes)
 			(show_name no)
@@ -145536,7 +145536,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 250.19 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -145547,7 +145547,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 250.19 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -145558,7 +145558,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 250.19 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -145756,7 +145756,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 761.6952 680.72 0)
 			(hide yes)
 			(show_name no)
@@ -145811,7 +145811,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 760.73 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -145822,7 +145822,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 760.73 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -145833,7 +145833,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 760.73 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -146031,7 +146031,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 472.1352 680.72 0)
 			(hide yes)
 			(show_name no)
@@ -146086,7 +146086,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 471.17 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -146097,7 +146097,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 471.17 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -146108,7 +146108,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 471.17 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -146445,7 +146445,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 45.4152 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -146500,7 +146500,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 44.45 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -146511,7 +146511,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 44.45 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -146522,7 +146522,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 44.45 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -147464,7 +147464,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 982.6752 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -147519,7 +147519,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 981.71 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -147530,7 +147530,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 981.71 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -147541,7 +147541,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 981.71 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -148310,7 +148310,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 540.7152 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -148365,7 +148365,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 539.75 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -148376,7 +148376,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 539.75 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -148387,7 +148387,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 539.75 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -148895,7 +148895,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 624.5352 486.41 0)
 			(hide yes)
 			(show_name no)
@@ -148950,7 +148950,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 623.57 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -148961,7 +148961,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 623.57 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -148972,7 +148972,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 623.57 482.6 0)
 			(hide yes)
 			(show_name no)
@@ -149170,7 +149170,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 403.5552 680.72 0)
 			(hide yes)
 			(show_name no)
@@ -149225,7 +149225,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 402.59 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -149236,7 +149236,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 402.59 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -149247,7 +149247,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 402.59 676.91 0)
 			(hide yes)
 			(show_name no)
@@ -149462,7 +149462,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 45.4152 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -149517,7 +149517,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C18164586"
 			(at 44.45 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -149528,7 +149528,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "MPN" "TCC0201X7R104K160ZT"
 			(at 44.45 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -149539,7 +149539,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "CCTC"
 			(at 44.45 135.89 0)
 			(hide yes)
 			(show_name no)

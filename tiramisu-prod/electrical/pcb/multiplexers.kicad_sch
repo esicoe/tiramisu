@@ -36218,7 +36218,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 700.532 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -36273,7 +36273,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C473466"
+		(property "LCSC" "C705630"
 			(at 695.96 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -36284,7 +36284,7 @@
 				)
 			)
 		)
-		(property "MPN" "0201WMF2002TEE"
+		(property "MPN" "RT0402BRD0720KL"
 			(at 695.96 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -36295,7 +36295,18 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL"
+		(property "Manufacturer" "YAGEO"
+			(at 695.96 464.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "0.1%"
 			(at 695.96 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -51144,7 +51155,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 700.532 474.98 0)
 			(hide yes)
 			(show_name no)
@@ -51199,7 +51210,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C155737"
+		(property "LCSC" "C25867"
 			(at 695.96 474.98 0)
 			(hide yes)
 			(show_name no)
@@ -51210,7 +51221,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0201FR-071K5L"
+		(property "MPN" "0402WGF1501TCE"
 			(at 695.96 474.98 0)
 			(hide yes)
 			(show_name no)
@@ -51221,7 +51232,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "UNI-ROYAL"
 			(at 695.96 474.98 0)
 			(hide yes)
 			(show_name no)
