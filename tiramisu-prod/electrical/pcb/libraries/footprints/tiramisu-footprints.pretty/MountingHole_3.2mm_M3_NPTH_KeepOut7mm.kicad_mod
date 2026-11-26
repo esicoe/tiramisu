@@ -1,0 +1,125 @@
+(footprint "MountingHole_3.2mm_M3_NPTH_KeepOut7mm"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Mounting hole M3, non-plated 3.2 mm, no annular ring; copper keep-out 7 mm on all layers (nylon/acetal pan head 5.6 mm, case boss 6 mm)")
+	(tags "mountinghole NPTH keepout nylon")
+	(property "Reference" "REF**"
+		(at 0 -4.95 0)
+		(layer "F.SilkS")
+		(uuid "4fe31cb3-a9c9-48d9-b33a-cd62390d2ae3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "MountingHole_3.2mm_M3_NPTH_KeepOut7mm"
+		(at 0 4.95 0)
+		(layer "F.Fab")
+		(uuid "1ac6e9b5-9fad-4048-9685-317ea1f6472b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(fp_circle
+		(center 0 0)
+		(end 2.8 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "2bcdc057-c1f6-46a1-a250-9ed41e6f5a24")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 3 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "B.Fab")
+		(uuid "6b138ba1-90a9-4d56-a506-e3c3a6a3231b")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 3.5 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "Cmts.User")
+		(uuid "6946dac8-1199-4ca9-8d6b-4b9aac0a2f91")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 3.75 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "d5c51e18-f3e0-4611-b228-297886b3428b")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 3.75 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "B.CrtYd")
+		(uuid "b85408f8-9dc3-4c0a-93eb-121993be2c17")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 3.2 3.2)
+		(drill 3.2)
+		(layers "*.Cu" "*.Mask")
+		(uuid "e3342e6c-65fa-44e3-9a05-8f7b6b8115c4")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "*.Cu")
+		(uuid "7b0ee56c-276f-4ba3-ba39-88b5aeed5753")
+		(name "")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints not_allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts (xy 3.5 0) (xy 3.4468 0.6078) (xy 3.2889 1.1971) (xy 3.0311 1.75) (xy 2.6812 2.2498) (xy 2.2498 2.6812) (xy 1.75 3.0311) (xy 1.1971 3.2889) (xy 0.6078 3.4468) (xy 0 3.5) (xy -0.6078 3.4468) (xy -1.1971 3.2889) (xy -1.75 3.0311) (xy -2.2498 2.6812) (xy -2.6812 2.2498) (xy -3.0311 1.75) (xy -3.2889 1.1971) (xy -3.4468 0.6078) (xy -3.5 0) (xy -3.4468 -0.6078) (xy -3.2889 -1.1971) (xy -3.0311 -1.75) (xy -2.6812 -2.2498) (xy -2.2498 -2.6812) (xy -1.75 -3.0311) (xy -1.1971 -3.2889) (xy -0.6078 -3.4468) (xy 0 -3.5) (xy 0.6078 -3.4468) (xy 1.1971 -3.2889) (xy 1.75 -3.0311) (xy 2.2498 -2.6812) (xy 2.6812 -2.2498) (xy 3.0311 -1.75) (xy 3.2889 -1.1971) (xy 3.4468 -0.6078))
+		)
+	)
+	(embedded_fonts no)
+)

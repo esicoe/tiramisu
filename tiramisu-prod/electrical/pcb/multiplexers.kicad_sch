@@ -13813,13 +13813,13 @@
 	)
 	(wire
 		(pts
-			(xy 674.37 499.11) (xy 684.53 499.11)
+			(xy 674.37 499.11) (xy 679.45 499.11)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "af643188-4e37-45cf-9296-b4155bb4711d")
+		(uuid "dd6131d0-cbf3-4c4c-aca0-38570cb56738")
 	)
 	(wire
 		(pts
@@ -29671,7 +29671,7 @@
 		(uuid "07b58bbb-5952-4a88-98b9-5bcb026e9d9f")
 	)
 	(hierarchical_label "Z_P"
-		(shape input)
+		(shape output)
 		(at 647.7 468.63 180)
 		(effects
 			(font
@@ -29682,7 +29682,7 @@
 		(uuid "0b0613d2-affc-4616-aa63-fc708d866980")
 	)
 	(hierarchical_label "Z_E"
-		(shape input)
+		(shape output)
 		(at 38.1 201.93 180)
 		(effects
 			(font
@@ -29704,7 +29704,7 @@
 		(uuid "18c8e40f-e1ee-4ffd-8f1b-a1ca410b72fa")
 	)
 	(hierarchical_label "Z_H"
-		(shape input)
+		(shape output)
 		(at 647.7 201.93 180)
 		(effects
 			(font
@@ -29891,7 +29891,7 @@
 		(uuid "402f9f5a-c42d-4620-a59f-c6507419a8eb")
 	)
 	(hierarchical_label "Z_G"
-		(shape input)
+		(shape output)
 		(at 444.5 201.93 180)
 		(effects
 			(font
@@ -29902,7 +29902,7 @@
 		(uuid "40318ede-a898-42d6-98be-0f8de1c095ad")
 	)
 	(hierarchical_label "Z_J"
-		(shape input)
+		(shape output)
 		(at 241.3 335.28 180)
 		(effects
 			(font
@@ -29913,7 +29913,7 @@
 		(uuid "497f1d08-ab21-4cbe-81ba-c8db47cbbb8f")
 	)
 	(hierarchical_label "Z_D"
-		(shape input)
+		(shape output)
 		(at 645.16 68.58 180)
 		(effects
 			(font
@@ -30199,7 +30199,7 @@
 		(uuid "a7a07fc5-e536-46eb-b17c-35888303b07b")
 	)
 	(hierarchical_label "Z_L"
-		(shape input)
+		(shape output)
 		(at 647.7 335.28 180)
 		(effects
 			(font
@@ -30364,7 +30364,7 @@
 		(uuid "c16d6639-05f5-40f3-b561-b7cf439f3918")
 	)
 	(hierarchical_label "Z_M"
-		(shape input)
+		(shape output)
 		(at 38.1 468.63 180)
 		(effects
 			(font
@@ -30496,7 +30496,7 @@
 		(uuid "d52487c7-871e-421d-abf6-3f68ba838199")
 	)
 	(hierarchical_label "Z_I"
-		(shape input)
+		(shape output)
 		(at 38.1 335.28 180)
 		(effects
 			(font
@@ -30529,7 +30529,7 @@
 		(uuid "dabfd58c-06c6-4961-be02-1cdd6877aec9")
 	)
 	(hierarchical_label "Z_O"
-		(shape input)
+		(shape output)
 		(at 444.5 468.63 180)
 		(effects
 			(font
@@ -30573,7 +30573,7 @@
 		(uuid "e3c039b9-3105-43f3-b997-052b73631159")
 	)
 	(hierarchical_label "Z_N"
-		(shape input)
+		(shape output)
 		(at 241.3 468.63 180)
 		(effects
 			(font
@@ -30628,7 +30628,7 @@
 		(uuid "eb26a0c3-f6f5-425e-a44d-2d66e310286a")
 	)
 	(hierarchical_label "Z_F"
-		(shape input)
+		(shape output)
 		(at 241.3 201.93 180)
 		(effects
 			(font
@@ -30639,7 +30639,7 @@
 		(uuid "ee2ab9bc-1de4-4753-be4a-a6c77b42a512")
 	)
 	(hierarchical_label "Z_K"
-		(shape input)
+		(shape output)
 		(at 444.5 335.28 180)
 		(effects
 			(font
@@ -30650,7 +30650,7 @@
 		(uuid "ee884c2d-058a-434a-bede-b10961f9fd94")
 	)
 	(hierarchical_label "Z_C"
-		(shape input)
+		(shape output)
 		(at 441.96 68.58 180)
 		(effects
 			(font
@@ -30672,7 +30672,7 @@
 		(uuid "f8795c7f-2a94-4f46-a434-3ad9c5123d3c")
 	)
 	(hierarchical_label "Z_B"
-		(shape input)
+		(shape output)
 		(at 238.76 68.58 180)
 		(effects
 			(font
@@ -30705,7 +30705,7 @@
 		(uuid "fdccc03d-512f-4a77-8b61-e02f26fedc35")
 	)
 	(hierarchical_label "Z_A"
-		(shape input)
+		(shape output)
 		(at 25.4 76.2 180)
 		(effects
 			(font
@@ -30815,7 +30815,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 499.11 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -30826,7 +30826,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 499.11 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -30837,7 +30837,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 499.11 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -31167,7 +31167,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 382.27 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -31178,7 +31178,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 382.27 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -31189,7 +31189,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 382.27 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -31663,7 +31663,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 295.91 514.35 0)
 			(hide yes)
 			(show_name no)
@@ -31674,7 +31674,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 295.91 514.35 0)
 			(hide yes)
 			(show_name no)
@@ -31685,7 +31685,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 295.91 514.35 0)
 			(hide yes)
 			(show_name no)
@@ -32013,7 +32013,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 542.29 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -32024,7 +32024,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 542.29 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -32035,7 +32035,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 542.29 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -32284,7 +32284,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 92.71 381 0)
 			(hide yes)
 			(show_name no)
@@ -32295,7 +32295,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 92.71 381 0)
 			(hide yes)
 			(show_name no)
@@ -32306,7 +32306,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 92.71 381 0)
 			(hide yes)
 			(show_name no)
@@ -32421,7 +32421,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 382.27 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -32432,7 +32432,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 382.27 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -32443,7 +32443,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 382.27 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -32716,7 +32716,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 702.31 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -32727,7 +32727,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 702.31 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -32738,7 +32738,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 702.31 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -32853,7 +32853,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 295.91 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -32864,7 +32864,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 295.91 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -32875,7 +32875,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 295.91 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -32990,7 +32990,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 496.57 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -33001,7 +33001,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 496.57 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -33012,7 +33012,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 496.57 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -33127,7 +33127,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 745.49 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -33138,7 +33138,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 745.49 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -33149,7 +33149,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 745.49 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -33398,7 +33398,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 585.47 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -33409,7 +33409,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 585.47 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -33420,7 +33420,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 585.47 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -33614,7 +33614,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 499.11 514.35 0)
 			(hide yes)
 			(show_name no)
@@ -33625,7 +33625,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 499.11 514.35 0)
 			(hide yes)
 			(show_name no)
@@ -33636,7 +33636,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 499.11 514.35 0)
 			(hide yes)
 			(show_name no)
@@ -34282,7 +34282,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 295.91 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -34293,7 +34293,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 295.91 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -34304,7 +34304,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 295.91 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -34498,7 +34498,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 542.29 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -34509,7 +34509,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 542.29 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -34520,7 +34520,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 542.29 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -35250,7 +35250,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 496.57 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -35261,7 +35261,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 496.57 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -35272,7 +35272,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 496.57 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -35521,7 +35521,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 582.93 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -35532,7 +35532,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 582.93 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -35543,7 +35543,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 582.93 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -35658,7 +35658,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 702.31 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -35669,7 +35669,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 702.31 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -35680,7 +35680,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 702.31 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -36555,7 +36555,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 539.75 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -36566,7 +36566,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 539.75 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -36577,7 +36577,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 539.75 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -36692,7 +36692,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 339.09 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -36703,7 +36703,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 339.09 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -36714,7 +36714,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 339.09 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -37042,7 +37042,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 745.49 381 0)
 			(hide yes)
 			(show_name no)
@@ -37053,7 +37053,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 745.49 381 0)
 			(hide yes)
 			(show_name no)
@@ -37064,7 +37064,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 745.49 381 0)
 			(hide yes)
 			(show_name no)
@@ -37337,7 +37337,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 786.13 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -37348,7 +37348,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 786.13 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -37359,7 +37359,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 786.13 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -37608,7 +37608,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 176.53 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -37619,7 +37619,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 176.53 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -37630,7 +37630,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 176.53 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -37879,7 +37879,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 135.89 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -37890,7 +37890,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 135.89 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -37901,7 +37901,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 135.89 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -38710,7 +38710,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 90.17 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -38721,7 +38721,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 90.17 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -38732,7 +38732,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 90.17 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -39249,7 +39249,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 499.11 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -39260,7 +39260,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 499.11 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -39271,7 +39271,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 499.11 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -39465,7 +39465,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 135.89 381 0)
 			(hide yes)
 			(show_name no)
@@ -39476,7 +39476,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 135.89 381 0)
 			(hide yes)
 			(show_name no)
@@ -39487,7 +39487,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 135.89 381 0)
 			(hide yes)
 			(show_name no)
@@ -39602,7 +39602,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 499.11 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -39613,7 +39613,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 499.11 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -39624,7 +39624,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 499.11 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -40299,7 +40299,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 379.73 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -40310,7 +40310,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 379.73 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -40321,7 +40321,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 379.73 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -40515,7 +40515,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 542.29 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -40526,7 +40526,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 542.29 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -40537,7 +40537,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 542.29 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -41267,7 +41267,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 339.09 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -41278,7 +41278,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 339.09 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -41289,7 +41289,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 339.09 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -41694,7 +41694,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 582.93 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -41705,7 +41705,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 582.93 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -41716,7 +41716,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 582.93 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -42472,7 +42472,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 295.91 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -42483,7 +42483,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 295.91 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -42494,7 +42494,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 295.91 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -42609,7 +42609,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 133.35 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -42620,7 +42620,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 133.35 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -42631,7 +42631,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 133.35 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -42746,7 +42746,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 726.44 495.3 0)
 			(hide yes)
 			(show_name no)
@@ -42757,7 +42757,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 726.44 495.3 0)
 			(hide yes)
 			(show_name no)
@@ -42768,7 +42768,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 726.44 495.3 0)
 			(hide yes)
 			(show_name no)
@@ -43019,7 +43019,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 339.09 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -43030,7 +43030,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 339.09 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -43041,7 +43041,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 339.09 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -43436,7 +43436,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 135.89 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -43447,7 +43447,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 135.89 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -43458,7 +43458,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 135.89 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -43652,7 +43652,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 293.37 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -43663,7 +43663,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 293.37 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -43674,7 +43674,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 293.37 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -44495,7 +44495,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 542.29 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -44506,7 +44506,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 542.29 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -44517,7 +44517,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 542.29 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -44711,7 +44711,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 742.95 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -44722,7 +44722,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 742.95 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -44733,7 +44733,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 742.95 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -44982,7 +44982,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 179.07 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -44993,7 +44993,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 179.07 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -45004,7 +45004,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 179.07 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -45119,7 +45119,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 699.77 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -45130,7 +45130,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 699.77 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -45141,7 +45141,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 699.77 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -45256,7 +45256,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 585.47 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -45267,7 +45267,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 585.47 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -45278,7 +45278,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 585.47 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -46712,7 +46712,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 745.49 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -46723,7 +46723,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 745.49 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -46734,7 +46734,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 745.49 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -46849,7 +46849,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 295.91 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -46860,7 +46860,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 295.91 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -46871,7 +46871,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 295.91 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -47278,7 +47278,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 135.89 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -47289,7 +47289,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 135.89 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -47300,7 +47300,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 135.89 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -47628,7 +47628,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 382.27 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -47639,7 +47639,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 382.27 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -47650,7 +47650,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 382.27 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -47765,7 +47765,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 499.11 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -47776,7 +47776,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 499.11 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -47787,7 +47787,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 499.11 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -47981,7 +47981,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 339.09 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -47992,7 +47992,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 339.09 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -48003,7 +48003,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 339.09 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -48197,7 +48197,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 293.37 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -48208,7 +48208,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 293.37 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -48219,7 +48219,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 293.37 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -48334,7 +48334,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 382.27 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -48345,7 +48345,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 382.27 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -48356,7 +48356,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 382.27 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -48550,7 +48550,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 295.91 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -48561,7 +48561,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 295.91 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -48572,7 +48572,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 295.91 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -48687,7 +48687,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 585.47 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -48698,7 +48698,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 585.47 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -48709,7 +48709,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 585.47 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -49037,7 +49037,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 745.49 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -49048,7 +49048,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 745.49 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -49059,7 +49059,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 745.49 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -49308,7 +49308,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 179.07 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -49319,7 +49319,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 179.07 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -49330,7 +49330,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 179.07 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -49871,7 +49871,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 135.89 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -49882,7 +49882,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 135.89 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -49893,7 +49893,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 135.89 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -50008,7 +50008,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 542.29 514.35 0)
 			(hide yes)
 			(show_name no)
@@ -50019,7 +50019,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 542.29 514.35 0)
 			(hide yes)
 			(show_name no)
@@ -50030,7 +50030,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 542.29 514.35 0)
 			(hide yes)
 			(show_name no)
@@ -50224,7 +50224,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 92.71 530.86 0)
 			(hide yes)
 			(show_name no)
@@ -50235,7 +50235,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 92.71 530.86 0)
 			(hide yes)
 			(show_name no)
@@ -50246,7 +50246,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 92.71 530.86 0)
 			(hide yes)
 			(show_name no)
@@ -50834,85 +50834,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 684.53 473.71 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "37fe3f73-85f8-4928-abdb-a90fef9b9cfe")
-		(property "Reference" "#PWR0285"
-			(at 684.53 480.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 684.53 478.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 684.53 473.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 684.53 473.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 684.53 473.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0586b044-b2bc-4193-a3cc-7763cd6685e6")
-		)
-		(instances
-			(project "tiramisu-prod-pcb"
-				(path "/bd2a675c-ae05-474a-93e7-edcce2196b8c/2abc789a-a795-4e4e-acd2-8dfba8c3f658"
-					(reference "#PWR0285")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 499.11 534.67 0)
 		(unit 1)
 		(body_style 1)
@@ -51347,7 +51268,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 542.29 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -51358,7 +51279,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 542.29 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -51369,7 +51290,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 542.29 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -51484,7 +51405,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 745.49 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -51495,7 +51416,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 745.49 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -51506,7 +51427,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 745.49 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -52205,7 +52126,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 542.29 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -52216,7 +52137,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 542.29 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -52227,7 +52148,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 542.29 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -52476,7 +52397,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 745.49 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -52487,7 +52408,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 745.49 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -52498,7 +52419,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 745.49 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -52747,7 +52668,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 92.71 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -52758,7 +52679,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 92.71 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -52769,7 +52690,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 92.71 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -53176,7 +53097,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 135.89 514.35 0)
 			(hide yes)
 			(show_name no)
@@ -53187,7 +53108,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 135.89 514.35 0)
 			(hide yes)
 			(show_name no)
@@ -53198,7 +53119,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 135.89 514.35 0)
 			(hide yes)
 			(show_name no)
@@ -53581,7 +53502,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 336.55 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -53592,7 +53513,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 336.55 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -53603,7 +53524,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 336.55 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -54032,7 +53953,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 135.89 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -54043,7 +53964,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 135.89 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -54054,7 +53975,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 135.89 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -54169,7 +54090,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 788.67 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -54180,7 +54101,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 788.67 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -54191,7 +54112,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 788.67 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -54677,7 +54598,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 702.31 381 0)
 			(hide yes)
 			(show_name no)
@@ -54688,7 +54609,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 702.31 381 0)
 			(hide yes)
 			(show_name no)
@@ -54699,7 +54620,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 702.31 381 0)
 			(hide yes)
 			(show_name no)
@@ -54814,7 +54735,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 382.27 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -54825,7 +54746,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 382.27 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -54836,7 +54757,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 382.27 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -55164,7 +55085,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 92.71 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -55175,7 +55096,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 92.71 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -55186,7 +55107,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 92.71 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -55301,7 +55222,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 179.07 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -55312,7 +55233,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 179.07 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -55323,7 +55244,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 179.07 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -55438,7 +55359,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 339.09 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -55449,7 +55370,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 339.09 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -55460,7 +55381,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 339.09 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -56283,7 +56204,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 702.31 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -56294,7 +56215,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 702.31 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -56305,7 +56226,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 702.31 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -56903,7 +56824,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 499.11 530.86 0)
 			(hide yes)
 			(show_name no)
@@ -56914,7 +56835,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 499.11 530.86 0)
 			(hide yes)
 			(show_name no)
@@ -56925,7 +56846,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 499.11 530.86 0)
 			(hide yes)
 			(show_name no)
@@ -57738,7 +57659,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 179.07 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -57749,7 +57670,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 179.07 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -57760,7 +57681,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 179.07 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -58863,7 +58784,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 339.09 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -58874,7 +58795,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 339.09 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -58885,7 +58806,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 339.09 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -59000,7 +58921,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 788.67 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -59011,7 +58932,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 788.67 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -59022,7 +58943,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 788.67 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -59372,7 +59293,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 699.77 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -59383,7 +59304,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 699.77 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -59394,7 +59315,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 699.77 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -59722,7 +59643,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 702.31 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -59733,7 +59654,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 702.31 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -59744,7 +59665,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 702.31 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -60072,7 +59993,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 92.71 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -60083,7 +60004,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 92.71 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -60094,7 +60015,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 92.71 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -60209,7 +60130,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 295.91 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -60220,7 +60141,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 295.91 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -60231,7 +60152,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 295.91 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -60480,7 +60401,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 726.44 462.28 0)
 			(hide yes)
 			(show_name no)
@@ -60491,7 +60412,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 726.44 462.28 0)
 			(hide yes)
 			(show_name no)
@@ -60502,7 +60423,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 726.44 462.28 0)
 			(hide yes)
 			(show_name no)
@@ -60885,7 +60806,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 499.11 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -60896,7 +60817,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 499.11 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -60907,7 +60828,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 499.11 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -61022,7 +60943,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 295.91 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -61033,7 +60954,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 295.91 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -61044,7 +60965,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 295.91 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -61451,7 +61372,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 90.17 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -61462,7 +61383,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 90.17 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -61473,7 +61394,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 90.17 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -61722,7 +61643,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 92.71 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -61733,7 +61654,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 92.71 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -61744,7 +61665,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 92.71 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -61993,7 +61914,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 788.67 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -62004,7 +61925,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 788.67 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -62015,7 +61936,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 788.67 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -62130,7 +62051,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 496.57 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -62141,7 +62062,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 496.57 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -62152,7 +62073,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 496.57 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -62425,7 +62346,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 542.29 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -62436,7 +62357,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 542.29 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -62447,7 +62368,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 542.29 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -63144,7 +63065,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 702.31 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -63155,7 +63076,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 702.31 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -63166,7 +63087,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 702.31 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -63417,7 +63338,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 499.11 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -63428,7 +63349,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 499.11 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -63439,7 +63360,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 499.11 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -63554,7 +63475,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 496.57 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -63565,7 +63486,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 496.57 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -63576,7 +63497,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 496.57 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -63971,7 +63892,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 133.35 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -63982,7 +63903,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 133.35 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -63993,7 +63914,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 133.35 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -64745,7 +64666,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 585.47 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -64756,7 +64677,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 585.47 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -64767,7 +64688,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 585.47 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -65016,7 +64937,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 92.71 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -65027,7 +64948,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 92.71 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -65038,7 +64959,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 92.71 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -65522,7 +65443,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 135.89 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -65533,7 +65454,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 135.89 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -65544,7 +65465,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 135.89 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -65793,7 +65714,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 135.89 530.86 0)
 			(hide yes)
 			(show_name no)
@@ -65804,7 +65725,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 135.89 530.86 0)
 			(hide yes)
 			(show_name no)
@@ -65815,7 +65736,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 135.89 530.86 0)
 			(hide yes)
 			(show_name no)
@@ -66086,7 +66007,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 135.89 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -66097,7 +66018,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 135.89 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -66108,7 +66029,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 135.89 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -67075,7 +66996,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 496.57 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -67086,7 +67007,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 496.57 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -67097,7 +67018,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 496.57 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -67291,7 +67212,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 745.49 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -67302,7 +67223,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 745.49 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -67313,7 +67234,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 745.49 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -67562,7 +67483,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 745.49 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -67573,7 +67494,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 745.49 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -67584,7 +67505,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 745.49 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -67699,7 +67620,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 133.35 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -67710,7 +67631,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 133.35 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -67721,7 +67642,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 133.35 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -68183,7 +68104,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 92.71 514.35 0)
 			(hide yes)
 			(show_name no)
@@ -68194,7 +68115,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 92.71 514.35 0)
 			(hide yes)
 			(show_name no)
@@ -68205,7 +68126,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 92.71 514.35 0)
 			(hide yes)
 			(show_name no)
@@ -68608,7 +68529,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 133.35 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -68619,7 +68540,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 133.35 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -68630,7 +68551,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 133.35 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -68745,7 +68666,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 585.47 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -68756,7 +68677,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 585.47 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -68767,7 +68688,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 585.47 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -69361,7 +69282,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 542.29 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -69372,7 +69293,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 542.29 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -69383,7 +69304,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 542.29 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -69790,7 +69711,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 760.73 445.77 0)
 			(hide yes)
 			(show_name no)
@@ -69801,7 +69722,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 760.73 445.77 0)
 			(hide yes)
 			(show_name no)
@@ -69812,7 +69733,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 760.73 445.77 0)
 			(hide yes)
 			(show_name no)
@@ -70329,7 +70250,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 742.95 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -70340,7 +70261,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 742.95 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -70351,7 +70272,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 742.95 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -70466,7 +70387,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 92.71 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -70477,7 +70398,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 92.71 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -70488,7 +70409,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 92.71 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -70950,7 +70871,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 499.11 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -70961,7 +70882,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 499.11 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -70972,7 +70893,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 499.11 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -71221,7 +71142,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 90.17 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -71232,7 +71153,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 90.17 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -71243,7 +71164,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 90.17 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -71358,7 +71279,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 293.37 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -71369,7 +71290,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 293.37 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -71380,7 +71301,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 293.37 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -71495,7 +71416,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 339.09 530.86 0)
 			(hide yes)
 			(show_name no)
@@ -71506,7 +71427,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 339.09 530.86 0)
 			(hide yes)
 			(show_name no)
@@ -71517,7 +71438,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 339.09 530.86 0)
 			(hide yes)
 			(show_name no)
@@ -71632,7 +71553,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 788.67 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -71643,7 +71564,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 788.67 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -71654,7 +71575,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 788.67 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -71848,7 +71769,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 542.29 530.86 0)
 			(hide yes)
 			(show_name no)
@@ -71859,7 +71780,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 542.29 530.86 0)
 			(hide yes)
 			(show_name no)
@@ -71870,7 +71791,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 542.29 530.86 0)
 			(hide yes)
 			(show_name no)
@@ -72265,7 +72186,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 135.89 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -72276,7 +72197,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 135.89 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -72287,7 +72208,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 135.89 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -73256,7 +73177,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 133.35 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -73267,7 +73188,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 133.35 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -73278,7 +73199,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 133.35 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -73874,7 +73795,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 92.71 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -73885,7 +73806,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 92.71 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -73896,7 +73817,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 92.71 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -74011,7 +73932,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 293.37 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -74022,7 +73943,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 293.37 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -74033,7 +73954,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 293.37 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -74988,7 +74909,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 295.91 381 0)
 			(hide yes)
 			(show_name no)
@@ -74999,7 +74920,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 295.91 381 0)
 			(hide yes)
 			(show_name no)
@@ -75010,7 +74931,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 295.91 381 0)
 			(hide yes)
 			(show_name no)
@@ -75395,7 +75316,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 179.07 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -75406,7 +75327,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 179.07 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -75417,7 +75338,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 179.07 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -75532,7 +75453,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 499.11 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -75543,7 +75464,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 499.11 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -75554,7 +75475,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 499.11 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -75669,7 +75590,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 339.09 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -75680,7 +75601,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 339.09 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -75691,7 +75612,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 339.09 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -75806,7 +75727,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 339.09 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -75817,7 +75738,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 339.09 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -75828,7 +75749,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 339.09 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -76022,7 +75943,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 788.67 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -76033,7 +75954,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 788.67 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -76044,7 +75965,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 788.67 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -76159,7 +76080,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 539.75 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -76170,7 +76091,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 539.75 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -76181,7 +76102,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 539.75 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -76566,7 +76487,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 726.44 445.77 0)
 			(hide yes)
 			(show_name no)
@@ -76577,7 +76498,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 726.44 445.77 0)
 			(hide yes)
 			(show_name no)
@@ -76588,7 +76509,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 726.44 445.77 0)
 			(hide yes)
 			(show_name no)
@@ -76703,7 +76624,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 786.13 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -76714,7 +76635,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 786.13 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -76725,7 +76646,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 786.13 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -76919,7 +76840,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 336.55 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -76930,7 +76851,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 336.55 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -76941,7 +76862,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 336.55 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -77212,7 +77133,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 179.07 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -77223,7 +77144,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 179.07 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -77234,7 +77155,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 179.07 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -78021,7 +77942,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 770.89 495.3 0)
 			(hide yes)
 			(show_name no)
@@ -78032,7 +77953,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 770.89 495.3 0)
 			(hide yes)
 			(show_name no)
@@ -78043,7 +77964,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 770.89 495.3 0)
 			(hide yes)
 			(show_name no)
@@ -78316,7 +78237,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 786.13 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -78327,7 +78248,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 786.13 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -78338,7 +78259,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 786.13 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -78826,7 +78747,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 382.27 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -78837,7 +78758,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 382.27 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -78848,7 +78769,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 382.27 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -79231,7 +79152,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 499.11 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -79242,7 +79163,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 499.11 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -79253,7 +79174,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 499.11 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -79368,7 +79289,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 499.11 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -79379,7 +79300,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 499.11 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -79390,7 +79311,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 499.11 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -80199,7 +80120,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 179.07 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -80210,7 +80131,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 179.07 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -80221,7 +80142,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 179.07 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -80549,7 +80470,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 135.89 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -80560,7 +80481,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 135.89 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -80571,7 +80492,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 135.89 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -81035,7 +80956,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 336.55 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -81046,7 +80967,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 336.55 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -81057,7 +80978,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 336.55 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -81775,7 +81696,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 699.77 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -81786,7 +81707,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 699.77 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -81797,7 +81718,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 699.77 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -82496,7 +82417,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 745.49 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -82507,7 +82428,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 745.49 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -82518,7 +82439,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 745.49 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -82846,7 +82767,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 542.29 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -82857,7 +82778,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 542.29 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -82868,7 +82789,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 542.29 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -82983,7 +82904,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 176.53 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -82994,7 +82915,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 176.53 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -83005,7 +82926,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 176.53 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -83120,7 +83041,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 92.71 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -83131,7 +83052,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 92.71 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -83142,7 +83063,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 92.71 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -83468,7 +83389,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 805.18 478.79 0)
 			(hide yes)
 			(show_name no)
@@ -83479,7 +83400,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 805.18 478.79 0)
 			(hide yes)
 			(show_name no)
@@ -83490,7 +83411,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 805.18 478.79 0)
 			(hide yes)
 			(show_name no)
@@ -84110,7 +84031,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 726.44 510.54 0)
 			(hide yes)
 			(show_name no)
@@ -84121,7 +84042,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 726.44 510.54 0)
 			(hide yes)
 			(show_name no)
@@ -84132,7 +84053,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 726.44 510.54 0)
 			(hide yes)
 			(show_name no)
@@ -84539,7 +84460,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 135.89 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -84550,7 +84471,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 135.89 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -84561,7 +84482,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 135.89 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -86346,7 +86267,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 339.09 514.35 0)
 			(hide yes)
 			(show_name no)
@@ -86357,7 +86278,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 339.09 514.35 0)
 			(hide yes)
 			(show_name no)
@@ -86368,7 +86289,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 339.09 514.35 0)
 			(hide yes)
 			(show_name no)
@@ -86483,7 +86404,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 382.27 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -86494,7 +86415,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 382.27 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -86505,7 +86426,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 382.27 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -87046,7 +86967,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 702.31 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -87057,7 +86978,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 702.31 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -87068,7 +86989,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 702.31 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -87451,7 +87372,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 293.37 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -87462,7 +87383,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 293.37 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -87473,7 +87394,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 293.37 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -88203,7 +88124,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 295.91 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -88214,7 +88135,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 295.91 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -88225,7 +88146,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 295.91 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -88340,7 +88261,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 339.09 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -88351,7 +88272,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 339.09 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -88362,7 +88283,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 339.09 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -88477,7 +88398,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 539.75 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -88488,7 +88409,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 539.75 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -88499,7 +88420,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 539.75 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -88614,7 +88535,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 179.07 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -88625,7 +88546,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 179.07 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -88636,7 +88557,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 179.07 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -88885,7 +88806,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 745.49 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -88896,7 +88817,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 745.49 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -88907,7 +88828,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 745.49 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -89022,7 +88943,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 585.47 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -89033,7 +88954,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 585.47 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -89044,7 +88965,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 585.47 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -89159,7 +89080,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 786.13 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -89170,7 +89091,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 786.13 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -89181,7 +89102,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 786.13 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -89531,7 +89452,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 92.71 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -89542,7 +89463,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 92.71 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -89553,7 +89474,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 92.71 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -89802,7 +89723,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 339.09 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -89813,7 +89734,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 339.09 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -89824,7 +89745,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 339.09 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -89939,7 +89860,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 742.95 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -89950,7 +89871,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 742.95 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -89961,7 +89882,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 742.95 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -90381,7 +90302,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 742.95 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -90392,7 +90313,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 742.95 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -90403,7 +90324,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 742.95 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -91305,7 +91226,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 339.09 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -91316,7 +91237,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 339.09 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -91327,7 +91248,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 339.09 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -91947,7 +91868,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 539.75 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -91958,7 +91879,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 539.75 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -91969,7 +91890,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 539.75 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -92297,7 +92218,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 336.55 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -92308,7 +92229,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 336.55 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -92319,7 +92240,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 336.55 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -92513,7 +92434,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 295.91 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -92524,7 +92445,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 295.91 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -92535,7 +92456,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 295.91 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -92729,7 +92650,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 339.09 381 0)
 			(hide yes)
 			(show_name no)
@@ -92740,7 +92661,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 339.09 381 0)
 			(hide yes)
 			(show_name no)
@@ -92751,7 +92672,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 339.09 381 0)
 			(hide yes)
 			(show_name no)
@@ -93371,7 +93292,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 379.73 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -93382,7 +93303,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 379.73 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -93393,7 +93314,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 379.73 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -93721,7 +93642,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 336.55 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -93732,7 +93653,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 336.55 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -93743,7 +93664,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 336.55 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -93937,7 +93858,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 339.09 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -93948,7 +93869,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 339.09 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -93959,7 +93880,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 339.09 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -94074,7 +93995,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 179.07 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -94085,7 +94006,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 179.07 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -94096,7 +94017,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 179.07 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -94211,7 +94132,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 293.37 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -94222,7 +94143,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 293.37 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -94233,7 +94154,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 293.37 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -94261,7 +94182,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 684.53 499.11 90)
+		(at 679.45 499.11 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -94272,7 +94193,7 @@
 		(fields_autoplaced yes)
 		(uuid "a554e6c5-5152-43cc-9157-340980a6e723")
 		(property "Reference" "#PWR0283"
-			(at 684.53 505.46 0)
+			(at 679.45 505.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -94283,7 +94204,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 684.53 504.19 0)
+			(at 679.45 504.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -94294,7 +94215,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 684.53 499.11 0)
+			(at 679.45 499.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -94305,7 +94226,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 684.53 499.11 0)
+			(at 679.45 499.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -94316,7 +94237,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 684.53 499.11 0)
+			(at 679.45 499.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -94640,7 +94561,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 585.47 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -94651,7 +94572,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 585.47 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -94662,7 +94583,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 585.47 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -95708,7 +95629,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 542.29 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -95719,7 +95640,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 542.29 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -95730,7 +95651,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 542.29 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -96216,7 +96137,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 92.71 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -96227,7 +96148,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 92.71 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -96238,7 +96159,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 92.71 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -96834,7 +96755,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 770.89 511.81 0)
 			(hide yes)
 			(show_name no)
@@ -96845,7 +96766,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 770.89 511.81 0)
 			(hide yes)
 			(show_name no)
@@ -96856,7 +96777,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 770.89 511.81 0)
 			(hide yes)
 			(show_name no)
@@ -97129,7 +97050,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 176.53 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -97140,7 +97061,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 176.53 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -97151,7 +97072,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 176.53 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -99432,7 +99353,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 788.67 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -99443,7 +99364,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 788.67 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -99454,7 +99375,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 788.67 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -100131,7 +100052,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 133.35 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -100142,7 +100063,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 133.35 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -100153,7 +100074,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 133.35 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -100584,7 +100505,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 295.91 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -100595,7 +100516,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 295.91 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -100606,7 +100527,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 295.91 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -100800,7 +100721,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 585.47 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -100811,7 +100732,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 585.47 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -100822,7 +100743,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 585.47 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -100937,7 +100858,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 702.31 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -100948,7 +100869,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 702.31 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -100959,7 +100880,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 702.31 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -101210,7 +101131,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 179.07 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -101221,7 +101142,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 179.07 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -101232,7 +101153,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 179.07 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -101426,7 +101347,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 295.91 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -101437,7 +101358,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 295.91 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -101448,7 +101369,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 295.91 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -101642,7 +101563,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 135.89 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -101653,7 +101574,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 135.89 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -101664,7 +101585,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 135.89 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -102978,7 +102899,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 382.27 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -102989,7 +102910,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 382.27 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -103000,7 +102921,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 382.27 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -103328,7 +103249,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 499.11 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -103339,7 +103260,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 499.11 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -103350,7 +103271,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 499.11 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -103544,7 +103465,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 382.27 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -103555,7 +103476,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 382.27 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -103566,7 +103487,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 382.27 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -103681,7 +103602,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 496.57 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -103692,7 +103613,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 496.57 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -103703,7 +103624,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 496.57 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -104165,7 +104086,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 90.17 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -104176,7 +104097,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 90.17 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -104187,7 +104108,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 90.17 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -104460,7 +104381,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 135.89 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -104471,7 +104392,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 135.89 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -104482,7 +104403,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 135.89 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -105159,7 +105080,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 295.91 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -105170,7 +105091,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 295.91 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -105181,7 +105102,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 295.91 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -105296,7 +105217,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 585.47 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -105307,7 +105228,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 585.47 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -105318,7 +105239,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 585.47 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -105433,7 +105354,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 92.71 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -105444,7 +105365,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 92.71 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -105455,7 +105376,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 92.71 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -105862,7 +105783,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 179.07 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -105873,7 +105794,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 179.07 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -105884,7 +105805,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 179.07 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -106157,7 +106078,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 702.31 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -106168,7 +106089,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 702.31 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -106179,7 +106100,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 702.31 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -107387,7 +107308,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 499.11 381 0)
 			(hide yes)
 			(show_name no)
@@ -107398,7 +107319,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 499.11 381 0)
 			(hide yes)
 			(show_name no)
@@ -107409,7 +107330,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 499.11 381 0)
 			(hide yes)
 			(show_name no)
@@ -107928,7 +107849,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 542.29 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -107939,7 +107860,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 542.29 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -107950,7 +107871,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 542.29 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -108065,7 +107986,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 339.09 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -108076,7 +107997,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 339.09 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -108087,7 +108008,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 339.09 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -108731,7 +108652,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 336.55 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -108742,7 +108663,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 336.55 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -108753,7 +108674,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 336.55 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -108868,7 +108789,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 539.75 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -108879,7 +108800,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 539.75 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -108890,7 +108811,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 539.75 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -109589,7 +109510,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 745.49 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -109600,7 +109521,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 745.49 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -109611,7 +109532,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 745.49 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -110688,7 +110609,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 702.31 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -110699,7 +110620,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 702.31 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -110710,7 +110631,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 702.31 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -110825,7 +110746,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 92.71 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -110836,7 +110757,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 92.71 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -110847,7 +110768,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 92.71 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -110962,7 +110883,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 699.77 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -110973,7 +110894,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 699.77 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -110984,7 +110905,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 699.77 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -111099,7 +111020,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 582.93 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -111110,7 +111031,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 582.93 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -111121,7 +111042,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 582.93 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -111315,7 +111236,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 539.75 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -111326,7 +111247,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 539.75 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -111337,7 +111258,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 539.75 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -111452,7 +111373,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 295.91 530.86 0)
 			(hide yes)
 			(show_name no)
@@ -111463,7 +111384,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 295.91 530.86 0)
 			(hide yes)
 			(show_name no)
@@ -111474,7 +111395,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 295.91 530.86 0)
 			(hide yes)
 			(show_name no)
@@ -111589,7 +111510,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 339.09 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -111600,7 +111521,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 339.09 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -111611,7 +111532,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 339.09 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -111941,7 +111862,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 585.47 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -111952,7 +111873,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 585.47 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -111963,7 +111884,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 585.47 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -113064,7 +112985,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 295.91 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -113075,7 +112996,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 295.91 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -113086,7 +113007,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 295.91 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -113335,7 +113256,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 760.73 462.28 0)
 			(hide yes)
 			(show_name no)
@@ -113346,7 +113267,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 760.73 462.28 0)
 			(hide yes)
 			(show_name no)
@@ -113357,7 +113278,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 760.73 462.28 0)
 			(hide yes)
 			(show_name no)
@@ -113630,7 +113551,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 382.27 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -113641,7 +113562,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 382.27 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -113652,7 +113573,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 382.27 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -114901,7 +114822,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 499.11 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -114912,7 +114833,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 499.11 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -114923,7 +114844,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 499.11 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -115117,7 +115038,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 176.53 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -115128,7 +115049,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 176.53 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -115139,7 +115060,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 176.53 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -115254,7 +115175,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 92.71 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -115265,7 +115186,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 92.71 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -115276,7 +115197,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 92.71 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -115549,7 +115470,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 542.29 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -115560,7 +115481,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 542.29 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -115571,7 +115492,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 542.29 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -116035,7 +115956,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 135.89 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -116046,7 +115967,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 135.89 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -116057,7 +115978,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 135.89 397.51 0)
 			(hide yes)
 			(show_name no)
@@ -116543,7 +116464,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 542.29 381 0)
 			(hide yes)
 			(show_name no)
@@ -116554,7 +116475,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 542.29 381 0)
 			(hide yes)
 			(show_name no)
@@ -116565,7 +116486,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 542.29 381 0)
 			(hide yes)
 			(show_name no)
@@ -116838,7 +116759,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 699.77 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -116849,7 +116770,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 699.77 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -116860,7 +116781,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 699.77 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -117882,7 +117803,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 499.11 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -117893,7 +117814,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 499.11 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -117904,7 +117825,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 499.11 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -118019,7 +117940,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 499.11 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -118030,7 +117951,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 499.11 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -118041,7 +117962,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 499.11 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -118235,7 +118156,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 702.31 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -118246,7 +118167,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 702.31 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -118257,7 +118178,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 702.31 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -118528,7 +118449,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 542.29 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -118539,7 +118460,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 542.29 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -118550,7 +118471,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 542.29 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -118665,7 +118586,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 702.31 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -118676,7 +118597,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 702.31 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -118687,7 +118608,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 702.31 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -118936,7 +118857,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 585.47 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -118947,7 +118868,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 585.47 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -118958,7 +118879,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 585.47 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -119286,7 +119207,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 90.17 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -119297,7 +119218,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 90.17 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -119308,7 +119229,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 90.17 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -119557,7 +119478,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 542.29 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -119568,7 +119489,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 542.29 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -119579,7 +119500,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 542.29 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -119694,7 +119615,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 379.73 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -119705,7 +119626,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 379.73 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -119716,7 +119637,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 379.73 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -119831,7 +119752,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 742.95 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -119842,7 +119763,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 742.95 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -119853,7 +119774,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 742.95 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -120102,7 +120023,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 699.77 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -120113,7 +120034,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 699.77 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -120124,7 +120045,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 699.77 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -120239,7 +120160,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 339.09 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -120250,7 +120171,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 339.09 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -120261,7 +120182,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 339.09 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -120510,7 +120431,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 90.17 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -120521,7 +120442,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 90.17 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -120532,7 +120453,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 90.17 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -120647,7 +120568,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 788.67 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -120658,7 +120579,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 788.67 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -120669,7 +120590,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 788.67 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -121098,7 +121019,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 726.44 478.79 0)
 			(hide yes)
 			(show_name no)
@@ -121109,7 +121030,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 726.44 478.79 0)
 			(hide yes)
 			(show_name no)
@@ -121120,7 +121041,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 726.44 478.79 0)
 			(hide yes)
 			(show_name no)
@@ -121630,7 +121551,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 295.91 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -121641,7 +121562,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 295.91 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -121652,7 +121573,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 295.91 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -121901,7 +121822,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 582.93 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -121912,7 +121833,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 582.93 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -121923,7 +121844,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 582.93 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -122038,7 +121959,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 179.07 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -122049,7 +121970,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 179.07 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -122060,7 +121981,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 179.07 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -123644,7 +123565,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 382.27 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -123655,7 +123576,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 382.27 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -123666,7 +123587,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 382.27 464.82 0)
 			(hide yes)
 			(show_name no)
@@ -123860,7 +123781,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 788.67 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -123871,7 +123792,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 788.67 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -123882,7 +123803,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 788.67 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -124076,7 +123997,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 135.89 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -124087,7 +124008,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 135.89 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -124098,7 +124019,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 135.89 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -124548,7 +124469,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 742.95 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -124559,7 +124480,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 742.95 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -124570,7 +124491,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 742.95 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -124843,7 +124764,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 295.91 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -124854,7 +124775,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 295.91 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -124865,7 +124786,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 295.91 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -124980,7 +124901,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 499.11 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -124991,7 +124912,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 499.11 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -125002,7 +124923,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 499.11 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -125196,7 +125117,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 382.27 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -125207,7 +125128,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 382.27 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -125218,7 +125139,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 382.27 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -125759,7 +125680,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 379.73 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -125770,7 +125691,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 379.73 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -125781,7 +125702,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 379.73 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -125896,7 +125817,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 92.71 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -125907,7 +125828,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 92.71 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -125918,7 +125839,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 92.71 448.31 0)
 			(hide yes)
 			(show_name no)
@@ -126540,7 +126461,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 585.47 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -126551,7 +126472,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 585.47 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -126562,7 +126483,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 585.47 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -128671,7 +128592,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 745.49 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -128682,7 +128603,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 745.49 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -128693,7 +128614,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 745.49 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -128808,7 +128729,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 135.89 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -128819,7 +128740,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 135.89 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -128830,7 +128751,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 135.89 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -129742,7 +129663,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 542.29 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -129753,7 +129674,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 542.29 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -129764,7 +129685,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 542.29 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -129879,7 +129800,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 92.71 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -129890,7 +129811,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 92.71 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -129901,7 +129822,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 92.71 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -130675,5 +130596,511 @@
 				)
 			)
 		)
+	)
+	(label "Y4P_RAW"
+		(at 684.53 473.71 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "27a8085b-528f-4611-9ebc-0568fd189263")
+	)
+	(symbol
+		(lib_id "tiramisu-footprints:R")
+		(at 800.1 504.19 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0877ee15-d484-4059-9a34-22d6cf3996d0")
+		(property "Reference" "R342"
+			(at 798.83 501.65 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R"
+			(at 803.91 502.92 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 800.1 499.618 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 801.37 495.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 800.1 492.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 800.1 504.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 800.1 504.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17168"
+			(at 800.1 504.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGF0000TCE"
+			(at 800.1 504.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 800.1 504.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e0bc046b-d9df-4832-b23a-2ccf849dcf24")
+		)
+		(pin "2"
+			(uuid "cb6d37e2-00e5-444b-8470-83249d5282fd")
+		)
+		(instances
+			(project "tiramisu-prod-pcb"
+				(path "/bd2a675c-ae05-474a-93e7-edcce2196b8c/2abc789a-a795-4e4e-acd2-8dfba8c3f658"
+					(reference "R342")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 805.18 509.27 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp yes)
+		(uuid "c8451c3b-fe89-44fe-9fe7-62e18a5af0b4")
+		(property "Reference" "C612"
+			(at 802.894 508.508 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22n"
+			(at 802.64 510.286 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 804.2148 513.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 805.18 509.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 805.18 509.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 805.18 509.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 805.18 509.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1532"
+			(at 805.18 509.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402B223K500NT"
+			(at 805.18 509.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
+			(at 805.18 509.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "09e4ef5b-6667-4d26-9e39-99b999331ac9")
+		)
+		(pin "2"
+			(uuid "0bf8bfd7-7589-428a-91cf-ed1a2e32eccd")
+		)
+		(instances
+			(project "tiramisu-prod-pcb"
+				(path "/bd2a675c-ae05-474a-93e7-edcce2196b8c/2abc789a-a795-4e4e-acd2-8dfba8c3f658"
+					(reference "C612")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 805.18 513.08 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "75cab505-99c5-42cc-8523-f25403d8ef0d")
+		(property "Reference" "#PWR0911"
+			(at 805.18 519.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 805.18 518.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 805.18 513.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 805.18 513.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 805.18 513.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d0a1d1ce-fc8a-4ee2-97e9-cbebd462f7ec")
+		)
+		(instances
+			(project "tiramisu-prod-pcb"
+				(path "/bd2a675c-ae05-474a-93e7-edcce2196b8c/2abc789a-a795-4e4e-acd2-8dfba8c3f658"
+					(reference "#PWR0911")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 793.75 504.19 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c5e2b2e0-26dc-4e17-ae77-a2c81c139f1d")
+		(property "Reference" "#PWR0912"
+			(at 793.75 510.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 793.75 509.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 793.75 504.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 793.75 504.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 793.75 504.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c0d6cedc-f181-48ac-baa2-c184b51a2b11")
+		)
+		(instances
+			(project "tiramisu-prod-pcb"
+				(path "/bd2a675c-ae05-474a-93e7-edcce2196b8c/2abc789a-a795-4e4e-acd2-8dfba8c3f658"
+					(reference "#PWR0912")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 793.75 504.19) (xy 796.29 504.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cfd81109-27dd-4fd7-8f1f-f08b3996dd9a")
+	)
+	(wire
+		(pts
+			(xy 803.91 504.19) (xy 805.18 504.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e722c9a7-2e34-4edb-a82b-6296154e6f85")
+	)
+	(wire
+		(pts
+			(xy 805.18 504.19) (xy 805.18 505.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f4474bd-f1f8-4139-82de-d3a32feae75f")
+	)
+	(wire
+		(pts
+			(xy 805.18 504.19) (xy 815.34 504.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7d10313-0730-4aad-b03f-1bcf343d7ece")
+	)
+	(junction
+		(at 805.18 504.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5e7dad03-b942-45c3-99a8-76d04c7802de")
+	)
+	(label "Y4P_RAW"
+		(at 815.34 504.19 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "560b9860-a0cf-4446-81c6-4c20c8f51255")
+	)
+	(text "Y4P: GND reference, 0R fitted\nOption: 1k (C11702) + fit C612\n= same RC as the other channels"
+		(exclude_from_sim no)
+		(at 791.21 523.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "09fe06f7-2722-40cf-b9d9-2b8811232d7c")
 	)
 )

@@ -9,10 +9,125 @@
 		(date "2026-11-21")
 		(rev "1")
 	)
-	(lib_symbols)
+	(lib_symbols
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(text "TIRAMISU"
+		(exclude_from_sim no)
+		(at 39.116 24.384 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 6.35 6.35)
+				(thickness 1.016)
+				(bold yes)
+				(italic yes)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "2104c6ec-ca77-42dd-b9f3-6d518cdb70dc")
+	)
 	(wire
 		(pts
-			(xy 76.2 76.2) (xy 127 76.2)
+			(xy 69.85 128.27) (xy 120.65 128.27)
 		)
 		(stroke
 			(width 0)
@@ -22,7 +137,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 45.72) (xy 228.6 45.72)
+			(xy 171.45 97.79) (xy 227.33 97.79)
 		)
 		(stroke
 			(width 0)
@@ -32,7 +147,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 63.5) (xy 127 63.5)
+			(xy 69.85 115.57) (xy 120.65 115.57)
 		)
 		(stroke
 			(width 0)
@@ -42,7 +157,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 55.88) (xy 127 55.88)
+			(xy 69.85 107.95) (xy 120.65 107.95)
 		)
 		(stroke
 			(width 0)
@@ -52,7 +167,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 83.82) (xy 127 83.82)
+			(xy 69.85 135.89) (xy 120.65 135.89)
 		)
 		(stroke
 			(width 0)
@@ -62,7 +177,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 50.8) (xy 228.6 50.8)
+			(xy 171.45 102.87) (xy 227.33 102.87)
 		)
 		(stroke
 			(width 0)
@@ -72,7 +187,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 48.26) (xy 127 48.26)
+			(xy 69.85 100.33) (xy 120.65 100.33)
 		)
 		(stroke
 			(width 0)
@@ -82,7 +197,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 91.44) (xy 127 91.44)
+			(xy 69.85 143.51) (xy 120.65 143.51)
 		)
 		(stroke
 			(width 0)
@@ -92,7 +207,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 86.36) (xy 127 86.36)
+			(xy 69.85 138.43) (xy 120.65 138.43)
 		)
 		(stroke
 			(width 0)
@@ -102,7 +217,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 81.28) (xy 127 81.28)
+			(xy 69.85 133.35) (xy 120.65 133.35)
 		)
 		(stroke
 			(width 0)
@@ -112,7 +227,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 66.04) (xy 127 66.04)
+			(xy 69.85 118.11) (xy 120.65 118.11)
 		)
 		(stroke
 			(width 0)
@@ -122,7 +237,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 43.18) (xy 127 43.18)
+			(xy 69.85 95.25) (xy 120.65 95.25)
 		)
 		(stroke
 			(width 0)
@@ -132,7 +247,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 53.34) (xy 127 53.34)
+			(xy 69.85 105.41) (xy 120.65 105.41)
 		)
 		(stroke
 			(width 0)
@@ -142,7 +257,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 78.74) (xy 127 78.74)
+			(xy 69.85 130.81) (xy 120.65 130.81)
 		)
 		(stroke
 			(width 0)
@@ -152,7 +267,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 88.9) (xy 127 88.9)
+			(xy 69.85 140.97) (xy 120.65 140.97)
 		)
 		(stroke
 			(width 0)
@@ -162,7 +277,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 93.98) (xy 127 93.98)
+			(xy 69.85 146.05) (xy 120.65 146.05)
 		)
 		(stroke
 			(width 0)
@@ -172,7 +287,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 96.52) (xy 127 96.52)
+			(xy 69.85 148.59) (xy 120.65 148.59)
 		)
 		(stroke
 			(width 0)
@@ -182,7 +297,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 58.42) (xy 127 58.42)
+			(xy 69.85 110.49) (xy 120.65 110.49)
 		)
 		(stroke
 			(width 0)
@@ -192,7 +307,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 73.66) (xy 127 73.66)
+			(xy 69.85 125.73) (xy 120.65 125.73)
 		)
 		(stroke
 			(width 0)
@@ -202,7 +317,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 50.8) (xy 127 50.8)
+			(xy 69.85 102.87) (xy 120.65 102.87)
 		)
 		(stroke
 			(width 0)
@@ -212,7 +327,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 68.58) (xy 127 68.58)
+			(xy 69.85 120.65) (xy 120.65 120.65)
 		)
 		(stroke
 			(width 0)
@@ -222,7 +337,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 43.18) (xy 228.6 43.18)
+			(xy 171.45 95.25) (xy 227.33 95.25)
 		)
 		(stroke
 			(width 0)
@@ -232,7 +347,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 71.12) (xy 127 71.12)
+			(xy 69.85 123.19) (xy 120.65 123.19)
 		)
 		(stroke
 			(width 0)
@@ -242,7 +357,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 45.72) (xy 127 45.72)
+			(xy 69.85 97.79) (xy 120.65 97.79)
 		)
 		(stroke
 			(width 0)
@@ -252,7 +367,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 60.96) (xy 127 60.96)
+			(xy 69.85 113.03) (xy 120.65 113.03)
 		)
 		(stroke
 			(width 0)
@@ -262,7 +377,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 48.26) (xy 228.6 48.26)
+			(xy 171.45 100.33) (xy 227.33 100.33)
 		)
 		(stroke
 			(width 0)
@@ -270,8 +385,502 @@
 		)
 		(uuid "f9f8848c-a9ce-4922-aebf-076b36f65d1d")
 	)
+	(table
+		(column_count 3)
+		(border
+			(external yes)
+			(header yes)
+			(stroke
+				(width 0)
+				(type solid)
+				(color 0 0 0 1)
+			)
+		)
+		(separators
+			(rows yes)
+			(cols yes)
+			(stroke
+				(width 0)
+				(type solid)
+				(color 0 0 0 1)
+			)
+		)
+		(column_widths 20.32 20.32 35.56)
+		(row_heights 5.715 8.89 2.54 2.54 2.54 2.54 2.54 2.54 2.54)
+		(uuid "d896a452-76c6-459b-8434-6bc1a3ae03d9")
+		(cells
+			(table_cell "Revision"
+				(exclude_from_sim no)
+				(at 19.05 28.575 0)
+				(size 20.32 5.715)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+						(color 0 0 0 1)
+					)
+					(justify top)
+				)
+				(uuid "9a8ccb60-1650-4983-b168-90347270c64e")
+			)
+			(table_cell "Date & Authors\nyyyy/mm/dd"
+				(exclude_from_sim no)
+				(at 39.37 28.575 0)
+				(size 20.32 5.715)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+						(color 0 0 0 1)
+					)
+					(justify top)
+				)
+				(uuid "d30847b7-9342-44ee-9bba-f8a7a54d433a")
+			)
+			(table_cell "Changes"
+				(exclude_from_sim no)
+				(at 59.69 28.575 0)
+				(size 35.56 5.715)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+						(color 0 0 0 1)
+					)
+					(justify top)
+				)
+				(uuid "63847f6c-a166-42d7-a9dd-a3e073131c6e")
+			)
+			(table_cell "1.0"
+				(exclude_from_sim no)
+				(at 19.05 34.29 0)
+				(size 20.32 8.89)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "dfb2376b-2a71-4184-bc02-7d8293558660")
+			)
+			(table_cell "2026/11/22\nEdward S.\nStepan K.\nJason L."
+				(exclude_from_sim no)
+				(at 39.37 34.29 0)
+				(size 20.32 8.89)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "79aae825-f461-49af-af8b-479efc6da42f")
+			)
+			(table_cell "First version"
+				(exclude_from_sim no)
+				(at 59.69 34.29 0)
+				(size 35.56 8.89)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "4a7faabf-8876-445e-b621-2ce1afc0668b")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 19.05 43.18 0)
+				(size 20.32 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "8af32574-8b78-4e84-aa2e-390dd1f4b13d")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 39.37 43.18 0)
+				(size 20.32 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "4837c305-8448-4fb5-8c35-f034fc0eb6a5")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 59.69 43.18 0)
+				(size 35.56 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "7eb0f281-04ea-42a3-9936-2ff8f8f0e7b2")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 19.05 45.72 0)
+				(size 20.32 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "d5ebd786-fa01-4639-b1cf-a1f3b06884f2")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 39.37 45.72 0)
+				(size 20.32 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "0d330d03-8d50-4782-b8ab-ffa3e88c75e0")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 59.69 45.72 0)
+				(size 35.56 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "0674a0e1-cd90-41b3-8ffb-a5702b0c5f75")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 19.05 48.26 0)
+				(size 20.32 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "fca5aa33-faed-4071-8a26-82176c527fb8")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 39.37 48.26 0)
+				(size 20.32 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "950d2dc4-49a3-4354-96eb-4b9c0efa452d")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 59.69 48.26 0)
+				(size 35.56 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "5639c568-cf16-4204-9e7b-9ef2168885b4")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 19.05 50.8 0)
+				(size 20.32 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "b6a00d6c-a8b4-4169-9c0c-e229f219ba2e")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 39.37 50.8 0)
+				(size 20.32 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "7086bcdd-80fe-48b3-a8dc-2313f9ffa5f9")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 59.69 50.8 0)
+				(size 35.56 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "ff981598-232c-496a-bdab-f14211d70a43")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 19.05 53.34 0)
+				(size 20.32 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "a8c66d7f-6e8f-4623-b44a-e1b8093e3380")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 39.37 53.34 0)
+				(size 20.32 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "af9b3fd0-23dc-4343-9ba7-e54b37a6520d")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 59.69 53.34 0)
+				(size 35.56 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "5ffc6eb5-c5c5-46fd-acd6-a4e1e9155fe6")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 19.05 55.88 0)
+				(size 20.32 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "0247b59c-e6b9-4519-8759-b2c23bf34f6a")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 39.37 55.88 0)
+				(size 20.32 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "2b82f1ea-b06b-4cdd-9ace-78775c64a832")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 59.69 55.88 0)
+				(size 35.56 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "a90f39e9-838a-4886-ad4f-1a579b84e55d")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 19.05 58.42 0)
+				(size 20.32 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "7016ecc5-5a1d-4c2f-b1fb-c09b52e6bf02")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 39.37 58.42 0)
+				(size 20.32 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "a3864de5-86ac-494d-86e2-ac3d3c8b0ec5")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 59.69 58.42 0)
+				(size 35.56 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "b03640ec-39d7-4fc7-991d-4161cbbee717")
+			)
+		)
+	)
 	(sheet
-		(at 25.4 38.1)
+		(at 19.05 90.17)
 		(size 50.8 63.5)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -286,7 +895,7 @@
 		)
 		(uuid "2abc789a-a795-4e4e-acd2-8dfba8c3f658")
 		(property "Sheetname" "Multiplexers"
-			(at 25.4 37.3884 0)
+			(at 19.05 89.4584 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -297,7 +906,7 @@
 			)
 		)
 		(property "Sheetfile" "multiplexers.kicad_sch"
-			(at 25.4 102.1846 0)
+			(at 19.05 154.2546 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -307,8 +916,8 @@
 				(justify left top)
 			)
 		)
-		(pin "Z_A" input
-			(at 76.2 43.18 0)
+		(pin "Z_A" output
+			(at 69.85 95.25 0)
 			(uuid "fe1e75e3-bddf-479b-b777-e36b08d03601")
 			(effects
 				(font
@@ -317,8 +926,8 @@
 				(justify right)
 			)
 		)
-		(pin "Z_B" input
-			(at 76.2 45.72 0)
+		(pin "Z_B" output
+			(at 69.85 97.79 0)
 			(uuid "21415522-e7b7-459d-a5d3-6cdba6790f7d")
 			(effects
 				(font
@@ -327,8 +936,8 @@
 				(justify right)
 			)
 		)
-		(pin "Z_C" input
-			(at 76.2 48.26 0)
+		(pin "Z_C" output
+			(at 69.85 100.33 0)
 			(uuid "722c63db-4e48-4307-9958-803ec974f0a5")
 			(effects
 				(font
@@ -337,8 +946,8 @@
 				(justify right)
 			)
 		)
-		(pin "Z_D" input
-			(at 76.2 50.8 0)
+		(pin "Z_D" output
+			(at 69.85 102.87 0)
 			(uuid "30ba8131-251a-4bb6-8554-66aa9a96319b")
 			(effects
 				(font
@@ -347,8 +956,8 @@
 				(justify right)
 			)
 		)
-		(pin "Z_E" input
-			(at 76.2 53.34 0)
+		(pin "Z_E" output
+			(at 69.85 105.41 0)
 			(uuid "3bc0633b-03f0-4035-9af4-1835c15f6a76")
 			(effects
 				(font
@@ -357,8 +966,8 @@
 				(justify right)
 			)
 		)
-		(pin "Z_F" input
-			(at 76.2 55.88 0)
+		(pin "Z_F" output
+			(at 69.85 107.95 0)
 			(uuid "f39a4648-0b2b-4d24-a307-364ce33b8e11")
 			(effects
 				(font
@@ -367,8 +976,8 @@
 				(justify right)
 			)
 		)
-		(pin "Z_G" input
-			(at 76.2 58.42 0)
+		(pin "Z_G" output
+			(at 69.85 110.49 0)
 			(uuid "15ceeb3d-cff8-4a41-8353-83480db046ae")
 			(effects
 				(font
@@ -377,8 +986,8 @@
 				(justify right)
 			)
 		)
-		(pin "Z_H" input
-			(at 76.2 60.96 0)
+		(pin "Z_H" output
+			(at 69.85 113.03 0)
 			(uuid "3e616523-206e-45f5-8de0-13f65dbd66db")
 			(effects
 				(font
@@ -387,8 +996,8 @@
 				(justify right)
 			)
 		)
-		(pin "Z_I" input
-			(at 76.2 63.5 0)
+		(pin "Z_I" output
+			(at 69.85 115.57 0)
 			(uuid "d796bb89-18ed-4f3a-8926-143836f2609c")
 			(effects
 				(font
@@ -397,8 +1006,8 @@
 				(justify right)
 			)
 		)
-		(pin "Z_J" input
-			(at 76.2 66.04 0)
+		(pin "Z_J" output
+			(at 69.85 118.11 0)
 			(uuid "de976d1e-4e6a-43bd-aa09-f0ed3434c786")
 			(effects
 				(font
@@ -407,8 +1016,8 @@
 				(justify right)
 			)
 		)
-		(pin "Z_K" input
-			(at 76.2 68.58 0)
+		(pin "Z_K" output
+			(at 69.85 120.65 0)
 			(uuid "53c4e273-6e7e-4e66-8642-1904ee4af837")
 			(effects
 				(font
@@ -417,8 +1026,8 @@
 				(justify right)
 			)
 		)
-		(pin "Z_L" input
-			(at 76.2 71.12 0)
+		(pin "Z_L" output
+			(at 69.85 123.19 0)
 			(uuid "40e0afb4-ba8b-4103-a051-60019404c179")
 			(effects
 				(font
@@ -427,8 +1036,8 @@
 				(justify right)
 			)
 		)
-		(pin "Z_M" input
-			(at 76.2 73.66 0)
+		(pin "Z_M" output
+			(at 69.85 125.73 0)
 			(uuid "b1b2a942-08c6-4f1f-a338-dd8e1cca1519")
 			(effects
 				(font
@@ -437,8 +1046,8 @@
 				(justify right)
 			)
 		)
-		(pin "Z_N" input
-			(at 76.2 76.2 0)
+		(pin "Z_N" output
+			(at 69.85 128.27 0)
 			(uuid "a5d5a379-6b8c-4261-93ec-160343e372ef")
 			(effects
 				(font
@@ -447,8 +1056,8 @@
 				(justify right)
 			)
 		)
-		(pin "Z_O" input
-			(at 76.2 78.74 0)
+		(pin "Z_O" output
+			(at 69.85 130.81 0)
 			(uuid "d513e0f2-bd74-431b-90c9-b2a03f6d6108")
 			(effects
 				(font
@@ -457,8 +1066,8 @@
 				(justify right)
 			)
 		)
-		(pin "Z_P" input
-			(at 76.2 81.28 0)
+		(pin "Z_P" output
+			(at 69.85 133.35 0)
 			(uuid "35908316-e9d9-4565-875b-8565b35087a4")
 			(effects
 				(font
@@ -468,7 +1077,7 @@
 			)
 		)
 		(pin "S0" input
-			(at 76.2 83.82 0)
+			(at 69.85 135.89 0)
 			(uuid "2ac08016-203a-45a5-a081-042df9f32586")
 			(effects
 				(font
@@ -478,7 +1087,7 @@
 			)
 		)
 		(pin "S1" input
-			(at 76.2 86.36 0)
+			(at 69.85 138.43 0)
 			(uuid "02838063-14bc-4c22-bfbc-955d4a0529db")
 			(effects
 				(font
@@ -488,7 +1097,7 @@
 			)
 		)
 		(pin "S2" input
-			(at 76.2 88.9 0)
+			(at 69.85 140.97 0)
 			(uuid "e7aa4c54-cd53-4160-b48b-acc6c35b6ba8")
 			(effects
 				(font
@@ -498,7 +1107,7 @@
 			)
 		)
 		(pin "S3" input
-			(at 76.2 91.44 0)
+			(at 69.85 143.51 0)
 			(uuid "58db9ec7-1b77-4fe5-9a5e-f2c7194c7064")
 			(effects
 				(font
@@ -508,7 +1117,7 @@
 			)
 		)
 		(pin "~{E}" input
-			(at 76.2 93.98 0)
+			(at 69.85 146.05 0)
 			(uuid "e3f7bfba-9575-40fe-a0b7-fe874bed39d3")
 			(effects
 				(font
@@ -518,7 +1127,7 @@
 			)
 		)
 		(pin "INJ" input
-			(at 76.2 96.52 0)
+			(at 69.85 148.59 0)
 			(uuid "4502989c-0ab7-45ab-99e8-dddb71102453")
 			(effects
 				(font
@@ -536,7 +1145,7 @@
 		)
 	)
 	(sheet
-		(at 25.4 127)
+		(at 19.05 165.735)
 		(size 50.8 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -551,7 +1160,7 @@
 		)
 		(uuid "5eb8d221-445c-4b2c-b847-7d24f349268f")
 		(property "Sheetname" "Sensors"
-			(at 25.4 126.2884 0)
+			(at 19.05 165.0234 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -562,7 +1171,7 @@
 			)
 		)
 		(property "Sheetfile" "sensors.kicad_sch"
-			(at 25.4 152.9846 0)
+			(at 19.05 191.7196 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -581,7 +1190,7 @@
 		)
 	)
 	(sheet
-		(at 127 38.1)
+		(at 120.65 90.17)
 		(size 50.8 63.5)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -596,7 +1205,7 @@
 		)
 		(uuid "ce5c656a-1e09-467e-a353-f11db3570ab6")
 		(property "Sheetname" "Processor"
-			(at 127 37.3884 0)
+			(at 120.65 89.4584 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -607,7 +1216,7 @@
 			)
 		)
 		(property "Sheetfile" "processor.kicad_sch"
-			(at 127 102.1846 0)
+			(at 120.65 154.2546 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -618,7 +1227,7 @@
 			)
 		)
 		(pin "Z_A" input
-			(at 127 43.18 180)
+			(at 120.65 95.25 180)
 			(uuid "44fc8405-306c-468d-ab39-dc2fa0c5e1e5")
 			(effects
 				(font
@@ -628,7 +1237,7 @@
 			)
 		)
 		(pin "Z_B" input
-			(at 127 45.72 180)
+			(at 120.65 97.79 180)
 			(uuid "e6457816-80a3-48be-a487-aaf7a3ab2a4f")
 			(effects
 				(font
@@ -638,7 +1247,7 @@
 			)
 		)
 		(pin "Z_C" input
-			(at 127 48.26 180)
+			(at 120.65 100.33 180)
 			(uuid "abc1ec9c-079f-4814-bb6c-657b986396cf")
 			(effects
 				(font
@@ -648,7 +1257,7 @@
 			)
 		)
 		(pin "Z_D" input
-			(at 127 50.8 180)
+			(at 120.65 102.87 180)
 			(uuid "27d46816-3982-4231-972a-6cefa89dcf02")
 			(effects
 				(font
@@ -658,7 +1267,7 @@
 			)
 		)
 		(pin "Z_E" input
-			(at 127 53.34 180)
+			(at 120.65 105.41 180)
 			(uuid "5c1e30e7-32c1-46dd-a2ee-3159d12bbdc2")
 			(effects
 				(font
@@ -668,7 +1277,7 @@
 			)
 		)
 		(pin "Z_F" input
-			(at 127 55.88 180)
+			(at 120.65 107.95 180)
 			(uuid "de83b7da-f59e-4f44-b486-0d27c9994650")
 			(effects
 				(font
@@ -678,7 +1287,7 @@
 			)
 		)
 		(pin "Z_G" input
-			(at 127 58.42 180)
+			(at 120.65 110.49 180)
 			(uuid "8ae62317-e08f-4d6a-9244-d0acd1a1d41b")
 			(effects
 				(font
@@ -688,7 +1297,7 @@
 			)
 		)
 		(pin "Z_H" input
-			(at 127 60.96 180)
+			(at 120.65 113.03 180)
 			(uuid "eb9e9f99-c9d5-48b8-9a01-f167126e0265")
 			(effects
 				(font
@@ -698,7 +1307,7 @@
 			)
 		)
 		(pin "Z_I" input
-			(at 127 63.5 180)
+			(at 120.65 115.57 180)
 			(uuid "6a182aac-63b9-4785-bc08-4654a9994b18")
 			(effects
 				(font
@@ -708,7 +1317,7 @@
 			)
 		)
 		(pin "Z_J" input
-			(at 127 66.04 180)
+			(at 120.65 118.11 180)
 			(uuid "43838a46-8c6b-4094-8c4a-2e3efff018ab")
 			(effects
 				(font
@@ -718,7 +1327,7 @@
 			)
 		)
 		(pin "Z_K" input
-			(at 127 68.58 180)
+			(at 120.65 120.65 180)
 			(uuid "ce7f5f70-4d68-477f-8c58-4861f75eced7")
 			(effects
 				(font
@@ -728,7 +1337,7 @@
 			)
 		)
 		(pin "Z_L" input
-			(at 127 71.12 180)
+			(at 120.65 123.19 180)
 			(uuid "a4ea7c21-c410-4885-80ed-43dd814cdb4b")
 			(effects
 				(font
@@ -738,7 +1347,7 @@
 			)
 		)
 		(pin "Z_M" input
-			(at 127 73.66 180)
+			(at 120.65 125.73 180)
 			(uuid "1ddd12ef-c501-40f6-a5e9-595181c4d4b7")
 			(effects
 				(font
@@ -748,7 +1357,7 @@
 			)
 		)
 		(pin "Z_N" input
-			(at 127 76.2 180)
+			(at 120.65 128.27 180)
 			(uuid "21e49f69-1115-4c6b-8613-e8a934661b46")
 			(effects
 				(font
@@ -758,7 +1367,7 @@
 			)
 		)
 		(pin "Z_O" input
-			(at 127 78.74 180)
+			(at 120.65 130.81 180)
 			(uuid "27bdccd1-3d16-4c2f-8828-363341253d30")
 			(effects
 				(font
@@ -768,7 +1377,7 @@
 			)
 		)
 		(pin "Z_P" input
-			(at 127 81.28 180)
+			(at 120.65 133.35 180)
 			(uuid "52b8d2d8-3ef3-42fd-93e7-3bef69327c46")
 			(effects
 				(font
@@ -778,7 +1387,7 @@
 			)
 		)
 		(pin "S0" output
-			(at 127 83.82 180)
+			(at 120.65 135.89 180)
 			(uuid "50237b67-8e72-4949-8c8a-b6ed60eaa144")
 			(effects
 				(font
@@ -788,7 +1397,7 @@
 			)
 		)
 		(pin "S1" output
-			(at 127 86.36 180)
+			(at 120.65 138.43 180)
 			(uuid "087581f5-46dd-4e6f-aab4-a4f5f553dff0")
 			(effects
 				(font
@@ -798,7 +1407,7 @@
 			)
 		)
 		(pin "S2" output
-			(at 127 88.9 180)
+			(at 120.65 140.97 180)
 			(uuid "453edcf6-2a62-4c7b-8218-dfeeff46f648")
 			(effects
 				(font
@@ -808,7 +1417,7 @@
 			)
 		)
 		(pin "S3" output
-			(at 127 91.44 180)
+			(at 120.65 143.51 180)
 			(uuid "cade2822-77dd-4ed5-b055-7e37d47d5dae")
 			(effects
 				(font
@@ -817,8 +1426,8 @@
 				(justify left)
 			)
 		)
-		(pin "~{E}" input
-			(at 127 93.98 180)
+		(pin "~{E}" output
+			(at 120.65 146.05 180)
 			(uuid "664e2f95-0142-4ca3-b1a9-6843998945b1")
 			(effects
 				(font
@@ -827,8 +1436,8 @@
 				(justify left)
 			)
 		)
-		(pin "INJ" input
-			(at 127 96.52 180)
+		(pin "INJ" output
+			(at 120.65 148.59 180)
 			(uuid "487e4531-356b-4667-9933-7aea2e5e7cc3")
 			(effects
 				(font
@@ -838,7 +1447,7 @@
 			)
 		)
 		(pin "USB_D+" bidirectional
-			(at 177.8 43.18 0)
+			(at 171.45 95.25 0)
 			(uuid "06bdb1f6-2699-4e46-92d3-a50da24090c8")
 			(effects
 				(font
@@ -848,7 +1457,7 @@
 			)
 		)
 		(pin "USB_D-" bidirectional
-			(at 177.8 45.72 0)
+			(at 171.45 97.79 0)
 			(uuid "89f710cc-6d04-40f3-99d2-cc77969e4b32")
 			(effects
 				(font
@@ -858,7 +1467,7 @@
 			)
 		)
 		(pin "3V3A_EN" output
-			(at 177.8 48.26 0)
+			(at 171.45 100.33 0)
 			(uuid "0fc47228-f136-467c-8e30-d742773985d8")
 			(effects
 				(font
@@ -868,7 +1477,7 @@
 			)
 		)
 		(pin "USBVBUS" input
-			(at 177.8 50.8 0)
+			(at 171.45 102.87 0)
 			(uuid "0bffa63c-4231-442a-a095-7998ae00c247")
 			(effects
 				(font
@@ -886,7 +1495,7 @@
 		)
 	)
 	(sheet
-		(at 228.6 38.1)
+		(at 227.33 90.17)
 		(size 45.72 17.78)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -901,7 +1510,7 @@
 		)
 		(uuid "e1ff4f7a-3ed9-4cdd-9a73-baaad40edcf1")
 		(property "Sheetname" "Power and Interface"
-			(at 228.6 37.3884 0)
+			(at 227.33 89.4584 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -912,7 +1521,7 @@
 			)
 		)
 		(property "Sheetfile" "power-and-interface.kicad_sch"
-			(at 228.6 56.4646 0)
+			(at 227.33 108.5346 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -922,8 +1531,8 @@
 				(justify left top)
 			)
 		)
-		(pin "USB_D+" input
-			(at 228.6 43.18 180)
+		(pin "USB_D+" bidirectional
+			(at 227.33 95.25 180)
 			(uuid "9eda06ef-a200-46c8-aa25-ce2ee19bbc25")
 			(effects
 				(font
@@ -932,8 +1541,8 @@
 				(justify left)
 			)
 		)
-		(pin "USB_D-" input
-			(at 228.6 45.72 180)
+		(pin "USB_D-" bidirectional
+			(at 227.33 97.79 180)
 			(uuid "ed0d62f7-4f4e-45a8-8151-a5c496787c67")
 			(effects
 				(font
@@ -943,7 +1552,7 @@
 			)
 		)
 		(pin "3V3A_EN" input
-			(at 228.6 48.26 180)
+			(at 227.33 100.33 180)
 			(uuid "b6a27429-766b-45f1-aaa6-f1b2c1b95f5b")
 			(effects
 				(font
@@ -952,8 +1561,8 @@
 				(justify left)
 			)
 		)
-		(pin "USBVBUS" input
-			(at 228.6 50.8 180)
+		(pin "USBVBUS" output
+			(at 227.33 102.87 180)
 			(uuid "092942bc-37e9-4e4c-bf68-82714d0d0ef4")
 			(effects
 				(font
@@ -976,4 +1585,717 @@
 		)
 	)
 	(embedded_fonts no)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 167.64 45.72 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files no)
+		(dnp no)
+		(uuid "3e2a7869-8a40-494e-a27f-8ec0fc00d2f4")
+		(property "Reference" "H1"
+			(at 170.18 45.085 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M3"
+			(at 170.18 47.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "tiramisu-footprints:MountingHole_3.2mm_M3_NPTH_KeepOut7mm"
+			(at 167.64 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "Mounting hole, non-plated, nylon/acetal screw; corner (-87.5, -66.25)"
+			(at 167.64 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "tiramisu-prod-pcb"
+				(path "/bd2a675c-ae05-474a-93e7-edcce2196b8c"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 185.42 45.72 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files no)
+		(dnp no)
+		(uuid "34c490f9-c35e-4b33-971a-6a94db61560f")
+		(property "Reference" "H2"
+			(at 187.96 45.085 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M3"
+			(at 187.96 47.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "tiramisu-footprints:MountingHole_3.2mm_M3_NPTH_KeepOut7mm"
+			(at 185.42 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "Mounting hole, non-plated, nylon/acetal screw; corner (+91.5, -66.25)"
+			(at 185.42 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "tiramisu-prod-pcb"
+				(path "/bd2a675c-ae05-474a-93e7-edcce2196b8c"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 203.2 45.72 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files no)
+		(dnp no)
+		(uuid "c7b23dec-b8fb-4c0a-94b1-9bbc9345651c")
+		(property "Reference" "H3"
+			(at 205.74 45.085 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M3"
+			(at 205.74 47.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "tiramisu-footprints:MountingHole_3.2mm_M3_NPTH_KeepOut7mm"
+			(at 203.2 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 203.2 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "Mounting hole, non-plated, nylon/acetal screw; corner (-87.5, +81.75)"
+			(at 203.2 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "tiramisu-prod-pcb"
+				(path "/bd2a675c-ae05-474a-93e7-edcce2196b8c"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 220.98 45.72 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files no)
+		(dnp no)
+		(uuid "e5a7ab0d-d494-4ff5-a673-59308cdfc759")
+		(property "Reference" "H4"
+			(at 223.52 45.085 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M3"
+			(at 223.52 47.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "tiramisu-footprints:MountingHole_3.2mm_M3_NPTH_KeepOut7mm"
+			(at 220.98 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 220.98 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "Mounting hole, non-plated, nylon/acetal screw; corner (+91.5, +81.75)"
+			(at 220.98 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "tiramisu-prod-pcb"
+				(path "/bd2a675c-ae05-474a-93e7-edcce2196b8c"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 238.76 45.72 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files no)
+		(dnp no)
+		(uuid "01a5ae6c-0d9e-417e-8769-ea5f00f66819")
+		(property "Reference" "H5"
+			(at 241.3 45.085 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M3"
+			(at 241.3 47.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "tiramisu-footprints:MountingHole_3.2mm_M3_NPTH_KeepOut7mm"
+			(at 238.76 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 238.76 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "Mounting hole, non-plated, nylon/acetal screw; bottom middle (4.25, -66.25)"
+			(at 238.76 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "tiramisu-prod-pcb"
+				(path "/bd2a675c-ae05-474a-93e7-edcce2196b8c"
+					(reference "H5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 167.64 60.96 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files no)
+		(dnp no)
+		(uuid "b4bbfd79-172c-4e8c-9293-d250b4fec557")
+		(property "Reference" "H6"
+			(at 170.18 60.325 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M3"
+			(at 170.18 62.865 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "tiramisu-footprints:MountingHole_3.2mm_M3_NPTH_KeepOut7mm"
+			(at 167.64 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "Mounting hole, non-plated, nylon/acetal screw; top middle (4.25, +81.75), beside USB-C"
+			(at 167.64 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "tiramisu-prod-pcb"
+				(path "/bd2a675c-ae05-474a-93e7-edcce2196b8c"
+					(reference "H6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 185.42 60.96 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files no)
+		(dnp no)
+		(uuid "f5d75383-31c9-486e-8725-1d3da2f6fdb0")
+		(property "Reference" "H7"
+			(at 187.96 60.325 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M3"
+			(at 187.96 62.865 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "tiramisu-footprints:MountingHole_3.2mm_M3_NPTH_KeepOut7mm"
+			(at 185.42 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "Mounting hole, non-plated, nylon/acetal screw; left middle (-87.5, -8.5)"
+			(at 185.42 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "tiramisu-prod-pcb"
+				(path "/bd2a675c-ae05-474a-93e7-edcce2196b8c"
+					(reference "H7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 203.2 60.96 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files no)
+		(dnp no)
+		(uuid "987576e2-5089-4443-a125-25f4d8856651")
+		(property "Reference" "H8"
+			(at 205.74 60.325 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M3"
+			(at 205.74 62.865 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "tiramisu-footprints:MountingHole_3.2mm_M3_NPTH_KeepOut7mm"
+			(at 203.2 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 203.2 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "Mounting hole, non-plated, nylon/acetal screw; right middle (+91.5, -8.5)"
+			(at 203.2 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "tiramisu-prod-pcb"
+				(path "/bd2a675c-ae05-474a-93e7-edcce2196b8c"
+					(reference "H8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 220.98 60.96 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files no)
+		(dnp no)
+		(uuid "3f74fcd6-8758-4fd0-aaea-ae6cb72e3ff7")
+		(property "Reference" "H9"
+			(at 223.52 60.325 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M2"
+			(at 223.52 62.865 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "tiramisu-footprints:MountingHole_2.2mm_M2_NPTH_KeepOut5mm"
+			(at 220.98 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 220.98 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "Mounting hole, non-plated, nylon/acetal screw; centre support, cell centre (4.25, -8.5)"
+			(at 220.98 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "tiramisu-prod-pcb"
+				(path "/bd2a675c-ae05-474a-93e7-edcce2196b8c"
+					(reference "H9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(text "Mounting holes (spec section 8, Developer 2026-11-24): 8 edge holes + 1 centre support, all non-plated.\nNylon or acetal screws; unplated-brass inserts only at the edge; nothing metal under the array.\nH1-H8: M3, hole 3.2 mm, copper keep-out 7 mm. H9: M2 cheese head, hole 2.2 mm, keep-out 5 mm.\nPositions (board mm): H1 (-87.5,-66.25)  H2 (91.5,-66.25)  H3 (-87.5,81.75)  H4 (91.5,81.75)\nH5 (4.25,-66.25)  H6 (4.25,81.75) beside USB-C  H7 (-87.5,-8.5)  H8 (91.5,-8.5)  H9 (4.25,-8.5)"
+		(exclude_from_sim no)
+		(at 160.02 31.75 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3803ae27-cc85-4ba8-8f93-580ab50bca57")
+	)
 )

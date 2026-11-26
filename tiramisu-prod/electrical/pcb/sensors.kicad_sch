@@ -435,7 +435,7 @@
 					)
 				)
 			)
-			(property "Value" ""
+			(property "Value" "SC4702SO-N-TR"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -43286,7 +43286,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 481.33 494.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43991,7 +43991,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 481.33 452.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44367,7 +44367,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 123.19 257.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44879,7 +44879,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 991.87 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45444,7 +45444,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 549.91 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45583,7 +45583,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 191.77 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45801,7 +45801,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 702.31 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46678,7 +46678,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 923.29 257.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47324,7 +47324,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1060.45 257.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47463,7 +47463,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 839.47 341.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47602,7 +47602,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 633.73 383.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47818,7 +47818,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 923.29 494.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47957,7 +47957,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 770.89 452.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48096,7 +48096,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 54.61 646.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48547,7 +48547,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 633.73 646.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48763,7 +48763,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 702.31 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48902,7 +48902,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 191.77 772.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -49469,7 +49469,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 344.17 730.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -49685,7 +49685,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 54.61 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50252,7 +50252,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 991.87 688.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50839,7 +50839,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1129.03 494.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50978,7 +50978,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 344.17 341.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -52539,7 +52539,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 839.47 189.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -53049,7 +53049,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 702.31 730.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -53344,7 +53344,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 260.35 688.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -53793,7 +53793,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 839.47 577.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54204,7 +54204,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 549.91 646.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54499,7 +54499,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 549.91 730.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54638,7 +54638,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 191.77 535.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55282,7 +55282,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 549.91 494.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55498,7 +55498,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 549.91 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -56144,7 +56144,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 344.17 646.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -56654,7 +56654,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 770.89 257.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57028,7 +57028,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 123.19 383.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57909,7 +57909,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1129.03 646.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -58125,7 +58125,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 344.17 494.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -59724,7 +59724,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 839.47 772.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -59863,7 +59863,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 123.19 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -60158,7 +60158,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 702.31 383.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -60297,7 +60297,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 923.29 535.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -60436,7 +60436,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 54.61 577.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -60788,7 +60788,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 191.77 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -61004,7 +61004,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 702.31 494.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -61356,7 +61356,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 481.33 383.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -61649,7 +61649,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 633.73 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62962,7 +62962,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 991.87 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -63470,7 +63470,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 923.29 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -63767,7 +63767,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 770.89 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -63983,7 +63983,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 260.35 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -64258,7 +64258,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 481.33 257.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -64610,7 +64610,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 123.19 494.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -64964,7 +64964,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1060.45 383.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65531,7 +65531,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 549.91 189.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -66039,7 +66039,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 839.47 452.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -66606,7 +66606,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 191.77 494.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -67039,7 +67039,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 481.33 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -67178,7 +67178,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 260.35 494.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -67453,7 +67453,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 54.61 772.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -67592,7 +67592,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 412.75 341.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -68917,7 +68917,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 191.77 452.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -69405,7 +69405,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 123.19 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -69544,7 +69544,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 412.75 257.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -69839,7 +69839,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 344.17 452.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -70114,7 +70114,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 770.89 189.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -70330,7 +70330,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 54.61 189.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -70763,7 +70763,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 260.35 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71115,7 +71115,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1060.45 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71739,7 +71739,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 344.17 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71878,7 +71878,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 549.91 772.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -72017,7 +72017,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 344.17 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -72389,7 +72389,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 770.89 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -72838,7 +72838,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 702.31 772.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -72977,7 +72977,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 991.87 535.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -73560,7 +73560,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1060.45 646.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -73699,7 +73699,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 412.75 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -73994,7 +73994,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 633.73 189.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -74445,7 +74445,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 839.47 688.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -74663,7 +74663,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 549.91 257.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -75153,7 +75153,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 412.75 189.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -75523,7 +75523,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 839.47 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -75741,7 +75741,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1129.03 341.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -75880,7 +75880,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1060.45 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -76175,7 +76175,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 923.29 383.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -76450,7 +76450,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 633.73 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -76589,7 +76589,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1129.03 257.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -76728,7 +76728,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 481.33 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -77974,7 +77974,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 191.77 646.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -78326,7 +78326,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 770.89 383.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -78911,7 +78911,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 549.91 688.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -79614,7 +79614,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 54.61 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -80337,7 +80337,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 54.61 452.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -80555,7 +80555,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 633.73 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -80694,7 +80694,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 770.89 535.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -80912,7 +80912,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 991.87 257.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -81341,7 +81341,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 633.73 535.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -81695,7 +81695,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1060.45 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -81834,7 +81834,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1129.03 189.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -81973,7 +81973,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 412.75 688.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -83087,7 +83087,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 770.89 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -83711,7 +83711,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 481.33 189.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -84217,7 +84217,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 549.91 452.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -84587,7 +84587,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 412.75 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -84882,7 +84882,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 54.61 730.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -85100,7 +85100,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 260.35 646.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -86151,7 +86151,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 923.29 577.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -86856,7 +86856,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 923.29 189.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -87287,7 +87287,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 412.75 772.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -87503,7 +87503,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1060.45 494.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -88498,7 +88498,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 481.33 688.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -88637,7 +88637,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 123.19 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -88853,7 +88853,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 839.47 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -88992,7 +88992,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 481.33 535.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -89210,7 +89210,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 54.61 494.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -90049,7 +90049,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 260.35 189.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -90346,7 +90346,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 770.89 494.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -90856,7 +90856,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 54.61 535.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -91502,7 +91502,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 191.77 189.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -91933,7 +91933,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 839.47 646.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -92715,7 +92715,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 991.87 577.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -92854,7 +92854,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1129.03 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -94400,7 +94400,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 260.35 772.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -96328,7 +96328,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 344.17 535.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -96757,7 +96757,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1129.03 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -97267,7 +97267,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 191.77 577.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -97483,7 +97483,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1129.03 577.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -97622,7 +97622,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 344.17 688.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -97840,7 +97840,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 123.19 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -97979,7 +97979,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 702.31 189.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -98118,7 +98118,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 412.75 494.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -98257,7 +98257,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 191.77 688.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -98396,7 +98396,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 54.61 688.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -99803,7 +99803,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 839.47 730.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -100019,7 +100019,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 123.19 535.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -100549,7 +100549,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 633.73 341.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -100688,7 +100688,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1060.45 452.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -101876,7 +101876,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 633.73 494.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -102171,7 +102171,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1060.45 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -102718,7 +102718,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 549.91 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -102857,7 +102857,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 991.87 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -103075,7 +103075,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 191.77 730.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -103429,7 +103429,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 123.19 688.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -103568,7 +103568,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 991.87 189.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -104330,7 +104330,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 481.33 646.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -104972,7 +104972,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1060.45 577.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -105403,7 +105403,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 702.31 535.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -105755,7 +105755,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 991.87 494.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -105971,7 +105971,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 191.77 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -106189,7 +106189,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 923.29 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -106328,7 +106328,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 633.73 772.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -106974,7 +106974,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1129.03 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -107113,7 +107113,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 191.77 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -107329,7 +107329,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 123.19 577.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -107898,7 +107898,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 923.29 646.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -108193,7 +108193,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 770.89 646.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -108490,7 +108490,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 770.89 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -109075,7 +109075,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 481.33 730.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -109429,7 +109429,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 191.77 383.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -109568,7 +109568,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 770.89 688.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -109999,7 +109999,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 549.91 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -111914,7 +111914,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 123.19 730.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -112189,7 +112189,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 839.47 257.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -112565,7 +112565,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 991.87 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -113014,7 +113014,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 344.17 772.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -113153,7 +113153,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 412.75 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -113663,7 +113663,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 260.35 341.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -113802,7 +113802,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 991.87 383.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -114701,7 +114701,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 123.19 452.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -114919,7 +114919,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 191.77 257.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -115271,7 +115271,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 923.29 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -115836,7 +115836,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1129.03 535.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -116656,7 +116656,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 702.31 577.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -116795,7 +116795,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1060.45 189.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -117070,7 +117070,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1060.45 341.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -117286,7 +117286,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 344.17 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -117638,7 +117638,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 481.33 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -117854,7 +117854,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 54.61 383.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -117993,7 +117993,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 839.47 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -118442,7 +118442,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 54.61 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -118660,7 +118660,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 412.75 577.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -119286,7 +119286,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 123.19 646.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -119697,7 +119697,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 702.31 646.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -120108,7 +120108,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 549.91 383.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -120462,7 +120462,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 633.73 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -120974,7 +120974,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 702.31 341.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -121482,7 +121482,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 923.29 341.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -121757,7 +121757,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 549.91 341.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -122168,7 +122168,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1129.03 688.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -122307,7 +122307,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 54.61 257.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -122602,7 +122602,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 702.31 257.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -123187,7 +123187,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 839.47 494.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -123561,7 +123561,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 923.29 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -123700,7 +123700,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 481.33 341.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -123839,7 +123839,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 412.75 452.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -124988,7 +124988,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 344.17 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -125204,7 +125204,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 633.73 688.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -125635,7 +125635,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 633.73 577.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -126068,7 +126068,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 412.75 383.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -126479,7 +126479,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 191.77 341.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -127127,7 +127127,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 702.31 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -127402,7 +127402,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 344.17 257.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -128046,7 +128046,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 481.33 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -128479,7 +128479,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1129.03 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -128989,7 +128989,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 260.35 535.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -129692,7 +129692,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 412.75 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -130494,7 +130494,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 54.61 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -130905,7 +130905,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 633.73 730.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -131044,7 +131044,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 991.87 646.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -131183,7 +131183,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 344.17 383.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -131752,7 +131752,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 481.33 772.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -131970,7 +131970,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 702.31 688.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -132186,7 +132186,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 770.89 341.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -132986,7 +132986,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 839.47 383.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -133202,7 +133202,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 770.89 577.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -133556,7 +133556,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 344.17 189.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -133695,7 +133695,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 123.19 341.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -133834,7 +133834,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 123.19 189.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -134555,7 +134555,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 702.31 452.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -135337,7 +135337,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1060.45 535.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -135983,7 +135983,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 549.91 535.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -136943,7 +136943,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 412.75 535.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -138212,7 +138212,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 839.47 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -138898,7 +138898,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 702.31 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -139114,7 +139114,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 260.35 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -139993,7 +139993,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 839.47 535.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -140209,7 +140209,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 54.61 341.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -141376,7 +141376,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 260.35 730.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -142101,7 +142101,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 991.87 341.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -142455,7 +142455,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1129.03 383.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -142886,7 +142886,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 260.35 383.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -143530,7 +143530,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 633.73 452.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -144097,7 +144097,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 770.89 730.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -144236,7 +144236,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 923.29 452.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -145036,7 +145036,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 344.17 577.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -145331,7 +145331,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 770.89 772.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -145606,7 +145606,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 481.33 577.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -145881,7 +145881,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 633.73 257.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -146156,7 +146156,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 260.35 577.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -146295,7 +146295,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1129.03 452.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -146649,7 +146649,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 260.35 257.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -146788,7 +146788,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 412.75 730.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -147081,7 +147081,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 123.19 772.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -147666,7 +147666,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 991.87 452.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -147805,7 +147805,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 1060.45 688.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -148021,7 +148021,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 549.91 577.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -148160,7 +148160,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 260.35 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -148745,7 +148745,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 260.35 452.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -149020,7 +149020,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SC4702SO"
+		(property "Value" "SC4702SO-N-TR"
 			(at 412.75 646.43 0)
 			(show_name no)
 			(do_not_autoplace no)

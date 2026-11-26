@@ -1521,7 +1521,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Filter:0603USB-142"
+		(symbol "tiramisu-footprints:WCM2012F2SF-900T04"
 			(pin_names
 				(offset 0.254)
 				(hide yes)
@@ -1541,7 +1541,7 @@
 					)
 				)
 			)
-			(property "Value" "0603USB-142"
+			(property "Value" "WCM2012F2SF-900T04"
 				(at 0 -4.445 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1551,7 +1551,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Inductor_SMD:L_CommonModeChoke_Coilcraft_0603USB"
+			(property "Footprint" "tiramisu-footprints:L_CommonModeChoke_TAI-TECH_WCM2012F2SF"
 				(at 0 -6.35 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1562,7 +1562,7 @@
 					)
 				)
 			)
-			(property "Datasheet" "https://www.coilcraft.com/pdfs/0603usb.pdf"
+			(property "Datasheet" "${KIPRJMOD}/../datasheets/CHOKE_DS_WCM2012F2SF-900T04.pdf"
 				(at 0 -8.255 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1573,7 +1573,7 @@
 					)
 				)
 			)
-			(property "Description" "Coilcraft common mode choke, 500mA, 250VAC, 98nH, 174mohm, 1.9Ghz"
+			(property "Description" "TAI-TECH WCM2012F2SF-900T04 USB common-mode choke, 90 Ohm at 100 MHz, 400 mA, 2.0x1.2 mm; windings 1-2 and 4-3, dots on 1 and 4"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1595,7 +1595,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "L*CommonModeChoke*Coilcraft*0603USB*"
+			(property "ki_fp_filters" "L*CommonModeChoke*TAI-TECH*WCM2012*"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1606,7 +1606,40 @@
 					)
 				)
 			)
-			(symbol "0603USB-142_0_1"
+			(property "MPN" "WCM2012F2SF-900T04"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "TAI-TECH"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C155171"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "WCM2012F2SF-900T04_0_1"
 				(circle
 					(center -2.794 1.27)
 					(radius 0.254)
@@ -1942,7 +1975,7 @@
 					)
 				)
 			)
-			(symbol "0603USB-142_1_1"
+			(symbol "WCM2012F2SF-900T04_1_1"
 				(pin passive line
 					(at -5.08 2.54 0)
 					(length 2.54)
@@ -2018,7 +2051,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Regulator_Linear:TLV75801PDRV"
+		(symbol "tiramisu-footprints:TLV75901PDRVR"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2034,7 +2067,7 @@
 					)
 				)
 			)
-			(property "Value" "TLV75801PDRV"
+			(property "Value" "TLV75901PDRVR"
 				(at 0 6.35 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2057,7 +2090,7 @@
 					)
 				)
 			)
-			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv758p.pdf"
+			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv759p.pdf"
 				(at 0 1.27 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2068,7 +2101,7 @@
 					)
 				)
 			)
-			(property "Description" "500mA Low-Dropout Linear Regulator, Adjustable Output, WSON-6"
+			(property "Description" "TI TLV75901P 1 A adjustable low-dropout regulator, WSON-6 2x2 mm (DRV)"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2101,7 +2134,40 @@
 					)
 				)
 			)
-			(symbol "TLV75801PDRV_0_1"
+			(property "MPN" "TLV75901PDRVR"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "Texas Instruments"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C544759"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "TLV75901PDRVR_0_1"
 				(rectangle
 					(start 5.08 -5.08)
 					(end -5.08 5.08)
@@ -2114,7 +2180,7 @@
 					)
 				)
 			)
-			(symbol "TLV75801PDRV_1_1"
+			(symbol "TLV75901PDRVR_1_1"
 				(pin power_out line
 					(at 7.62 2.54 180)
 					(length 2.54)
@@ -3900,7 +3966,7 @@
 		)
 		(uuid "4aa40176-ab07-4c1a-827c-80c7715ddde2")
 	)
-	(text "Vout = 0.55(1 + Rout/Rfb)\nVout = 0.55(1+ 12K/10K) = 1.21V\n12.0k 1 % / 10.0k 0.1 %"
+	(text "Vout = 0.55(1 + Rout/Rfb)\nVout = 0.55(1+ 12K/10K) = 1.21V\n12.0k / 10.0k, both 0.1 %"
 		(exclude_from_sim no)
 		(at 178.308 123.952 0)
 		(effects
@@ -3949,7 +4015,7 @@
 		)
 		(uuid "811b4e2a-9120-40fd-aa63-bbef6420ea62")
 	)
-	(text "LDO Regulators\nVBUS (5V) -> 3.3V (Digital)\nVBUS (5V) -> 3.3V (Analog)\n3.3V (Digital) -> 1.2V (Core Voltage)"
+	(text "LDO Regulators\n5V (eFuse out) -> 3.3V (Digital)\n5V (eFuse out) -> 3.3V (Analog)\n3.3V (Digital) -> 1.2V (Core Voltage)"
 		(exclude_from_sim no)
 		(at 283.718 21.844 0)
 		(effects
@@ -6751,7 +6817,7 @@
 		(uuid "f9b5a15b-578c-49c3-a0fe-fd9fae1f9c4f")
 	)
 	(hierarchical_label "USB_D-"
-		(shape input)
+		(shape bidirectional)
 		(at 134.62 71.12 0)
 		(effects
 			(font
@@ -6773,7 +6839,7 @@
 		(uuid "1231e8a4-45ab-408a-bd32-7e4ee487353d")
 	)
 	(hierarchical_label "USB_D+"
-		(shape input)
+		(shape bidirectional)
 		(at 134.62 83.82 0)
 		(effects
 			(font
@@ -6784,7 +6850,7 @@
 		(uuid "a1ff943a-b376-4d93-9a46-372d774ac30c")
 	)
 	(hierarchical_label "USBVBUS"
-		(shape input)
+		(shape output)
 		(at 130.81 154.94 0)
 		(effects
 			(font
@@ -7944,7 +8010,7 @@
 				)
 			)
 		)
-		(property "Value" "VBUS"
+		(property "Value" "VBUS_IN"
 			(at 50.8 149.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8753,7 +8819,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 205.74 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -8764,7 +8830,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 205.74 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -8775,7 +8841,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 205.74 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -9025,7 +9091,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "34c3cf80-7a1b-40e8-871e-370c4af740e9")
@@ -9051,7 +9117,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+		(property "Footprint" "tiramisu-footprints:TestPoint_Pad_D2.5mm_Pogo_P100"
 			(at 93.98 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -9475,7 +9541,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet.lcsc.com/datasheet/pdf/9e56b777c022540fcce7c7f67825f55e.pdf?productCode=C165948"
 			(at 41.91 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -9486,7 +9552,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "HRO TYPE-C-31-M-12 USB 2.0 Type-C receptacle, 16 contacts, SMD with through-hole shell tabs"
 			(at 38.1 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -9779,7 +9845,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 232.41 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -9790,7 +9856,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 232.41 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -9801,7 +9867,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 232.41 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -9914,7 +9980,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "57514a8e-90a8-4579-b7e9-a9ce50eb1f23")
 		(property "Reference" "TP18"
@@ -9939,7 +10005,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+		(property "Footprint" "tiramisu-footprints:TestPoint_Pad_D2.5mm_Pogo_P100"
 			(at 209.55 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -10456,7 +10522,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "${KIPRJMOD}/../datasheets/ESD_DS_TPD4E05U06DQAR.pdf"
 			(at 94.615 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -10468,7 +10534,7 @@
 				(justify left)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TI TPD4E05U06 4-channel 0.5 pF ESD protection, USON-10 DQA. This copy names pin 1 D1- and pin 2 D1+ (TI and the KiCad 10 stock symbol: pin 1 D1+); channels are identical, the schematic follows this copy"
 			(at 92.71 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -10732,7 +10798,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Regulator_Linear:TLV75801PDRV")
+		(lib_id "tiramisu-footprints:TLV75901PDRVR")
 		(at 227.33 45.72 0)
 		(unit 1)
 		(body_style 1)
@@ -11060,7 +11126,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4u7 25V"
+		(property "Value" "4u7 50V"
 			(at 77.47 40.386 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11126,7 +11192,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1872"
+		(property "LCSC" "C29823"
 			(at 74.93 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -11137,7 +11203,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL31B475KAHNNNE"
+		(property "MPN" "1206B475K500NT"
 			(at 74.93 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -11148,7 +11214,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 74.93 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -11182,7 +11248,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "74dd6340-5ea9-4a03-b478-ac63c08cfa73")
 		(property "Reference" "TP11"
@@ -11207,7 +11273,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+		(property "Footprint" "tiramisu-footprints:TestPoint_Pad_D2.5mm_Pogo_P100"
 			(at 63.5 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -11396,7 +11462,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "7a25b868-b567-4d89-b237-80e5335c35c8")
 		(property "Reference" "TP21"
@@ -11421,7 +11487,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+		(property "Footprint" "tiramisu-footprints:TestPoint_Pad_D2.5mm_Pogo_P100"
 			(at 262.89 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -11845,7 +11911,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 207.01 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -11856,7 +11922,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 207.01 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -11867,7 +11933,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 207.01 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -11894,7 +11960,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Filter:0603USB-142")
+		(lib_id "tiramisu-footprints:WCM2012F2SF-900T04")
 		(at 129.54 77.47 0)
 		(unit 1)
 		(body_style 1)
@@ -11935,7 +12001,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.tai-tech.com.tw"
+		(property "Datasheet" "${KIPRJMOD}/../datasheets/CHOKE_DS_WCM2012F2SF-900T04.pdf"
 			(at 129.54 85.725 0)
 			(hide yes)
 			(show_name no)
@@ -12055,7 +12121,7 @@
 				)
 			)
 		)
-		(property "Value" "VBUS"
+		(property "Value" "VBUS_IN"
 			(at 54.61 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12196,7 +12262,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "9037018c-3f92-4b81-b19d-29bfcdeb66e1")
 		(property "Reference" "TP20"
@@ -12221,7 +12287,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+		(property "Footprint" "tiramisu-footprints:TestPoint_Pad_D2.5mm_Pogo_P100"
 			(at 259.08 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -12721,7 +12787,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "9a79c3a9-897d-4a94-a4fb-9c4029f5ba3a")
 		(property "Reference" "TP10"
@@ -12735,7 +12801,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "VBUS"
+		(property "Value" "VBUS_IN"
 			(at 66.294 148.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12746,7 +12812,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+		(property "Footprint" "tiramisu-footprints:TestPoint_Pad_D2.5mm_Pogo_P100"
 			(at 73.66 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -12879,7 +12945,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 232.41 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -12890,7 +12956,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 232.41 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -12901,7 +12967,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 232.41 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -12935,7 +13001,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "a17058e7-c825-4d7e-9ff4-02cb9ebafc37")
 		(property "Reference" "TP17"
@@ -12960,7 +13026,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+		(property "Footprint" "tiramisu-footprints:TestPoint_Pad_D2.5mm_Pogo_P100"
 			(at 109.22 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -14270,7 +14336,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 64.77 29.718 0)
 			(hide yes)
 			(show_name no)
@@ -14325,7 +14391,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C25271"
+		(property "LCSC" "C17928"
 			(at 64.77 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -14336,7 +14402,7 @@
 				)
 			)
 		)
-		(property "MPN" "0805W8F100KT5E"
+		(property "MPN" "1206W4F100KT5E"
 			(at 64.77 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -14676,7 +14742,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Regulator_Linear:TLV75801PDRV")
+		(lib_id "tiramisu-footprints:TLV75901PDRVR")
 		(at 219.71 93.98 0)
 		(unit 1)
 		(body_style 1)
@@ -14833,7 +14899,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c776d7a2-515f-477f-bc9c-a8e1fff4c37d")
@@ -14859,7 +14925,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+		(property "Footprint" "tiramisu-footprints:TestPoint_Pad_D2.5mm_Pogo_P100"
 			(at 111.76 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -15145,7 +15211,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "ceb51e75-e425-4655-a3b5-a1d1d8e063fc")
 		(property "Reference" "TP19"
@@ -15170,7 +15236,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+		(property "Footprint" "tiramisu-footprints:TestPoint_Pad_D2.5mm_Pogo_P100"
 			(at 222.25 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -15845,7 +15911,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "dc5d3f53-a0f2-4cc4-a8c5-430d85f9d74a")
 		(property "Reference" "TP22"
@@ -15870,7 +15936,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+		(property "Footprint" "tiramisu-footprints:TestPoint_Pad_D2.5mm_Pogo_P100"
 			(at 270.51 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -16193,7 +16259,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e529c804-09db-4d32-9fa5-3b830103cbf5")
@@ -16219,7 +16285,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+		(property "Footprint" "tiramisu-footprints:TestPoint_Pad_D2.5mm_Pogo_P100"
 			(at 111.76 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -16306,7 +16372,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "${KIPRJMOD}/../datasheets/EFUSE_DS_TPS2553DRVR.pdf"
 			(at 81.28 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -16317,7 +16383,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TI TPS2553 current-limited power-distribution switch (eFuse): active-high EN, auto-retry, FAULT open-drain, adjustable limit, WSON-6 DRV"
 			(at 81.28 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -16493,7 +16559,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Regulator_Linear:TLV75801PDRV")
+		(lib_id "tiramisu-footprints:TLV75901PDRVR")
 		(at 219.71 142.24 0)
 		(unit 1)
 		(body_style 1)
@@ -16730,7 +16796,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 240.03 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -16741,7 +16807,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 240.03 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -16752,7 +16818,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 240.03 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -17078,7 +17144,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C107017"
+		(property "LCSC" "C1532"
 			(at 205.74 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -17089,7 +17155,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX7R7BB223"
+		(property "MPN" "0402B223K500NT"
 			(at 205.74 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -17100,7 +17166,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 205.74 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -17134,7 +17200,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5754499-c4ae-491a-bb5a-a25e82f84669")
@@ -17160,7 +17226,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+		(property "Footprint" "tiramisu-footprints:TestPoint_Pad_D2.5mm_Pogo_P100"
 			(at 93.98 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -17496,7 +17562,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa58b79b-a4a8-4dc0-be0b-b972c395eb75")
@@ -17522,7 +17588,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+		(property "Footprint" "tiramisu-footprints:TestPoint_Pad_D2.5mm_Pogo_P100"
 			(at 93.98 105.41 0)
 			(hide yes)
 			(show_name no)
